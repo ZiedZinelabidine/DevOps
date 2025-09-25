@@ -1,0 +1,21 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: my-pod
+  namespace: default  # Remplacez par le namespace de votre application
+spec:
+  serviceAccountName: workload-identity-sa  # Le Service Account associé à Workload Identity
+  containers:
+  - name: my-container
+    image: nginx
+    volumeMounts:
+    - name: secrets-store
+      mountPath: "/mnt/secrets-store"
+      readOnly: true
+  volumes:
+  - name: secrets-store
+    csi:
+      driver: secrets-store.csi.k8s.io
+      readOnly: true
+      volumeAttributes:
+        secretProviderClass: "azure-keyvault-secrets"  # Le nom du SecretProviderClass

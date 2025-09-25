@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: workload-identity-sa
+  namespace: default  # Remplacez par votre namespace si nécessaire
+  annotations:
+    azure.workload.identity/client-id: "15d381be-9935-4d9a-b835-242e48880323"  # Remplacez par l'ID client de l'identité Azure AD

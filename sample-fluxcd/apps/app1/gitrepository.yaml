@@ -1,0 +1,12 @@
+apiVersion: source.toolkit.fluxcd.io/v1
+kind: GitRepository
+metadata:
+  name: app1
+  namespace: fluxcd-demo
+spec:
+  interval: 1m0s
+  ref:
+    branch: main
+  url: https://gitlab.com/Itgalaxy1/workshopeks/applications/application1
+  secretRef:
+    name: gitlab-token
