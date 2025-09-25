@@ -1,0 +1,10 @@
+apiVersion: storage.k8s.io/v1
+kind: StorageClass
+metadata:
+  name: azure-managed-disk
+provisioner: disk.csi.azure.com
+parameters:
+  skuName: Standard_LRS  # Type de disque (SSD premium)
+reclaimPolicy: Retain
+allowVolumeExpansion: true
+volumeBindingMode: WaitForFirstConsumer
