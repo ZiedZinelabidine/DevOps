@@ -1,0 +1,48 @@
+name: CI/CD Pipeline with ECS Deployment
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+
+      - name: Log in to Amazon ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@v1
+
+      - name: Build Docker image
+        run: docker build -t ${{ secrets.ECR_REPOSITORY }}:latest .
+
+      - name: Run unit tests
+        run: |
+          echo "Running unit tests..."
+          pytest tests/
+
+      - name: Tag Docker image
+        run: docker tag ${{ secrets.ECR_REPOSITORY }}:latest ${{ secrets.ECR_REPOSITORY }}:${{ github.sha }}
+
+      - name: Push Docker image to ECR
+        run: docker push ${{ secrets.ECR_REPOSITORY }}:${{ github.sha }}
+
+  deploy-to-ecs:
+    needs: build-and-push
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Update ECS service
+        run: |
+          aws ecs update-service \
+            --cluster ${{ secrets.CLUSTER }} \
+            --service ${{ secrets.SERVICE }} \
+            --force-new-deployment \
+            --region ${{ secrets.REGION }}
