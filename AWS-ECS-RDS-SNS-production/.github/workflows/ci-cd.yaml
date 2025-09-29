@@ -10,34 +10,27 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout code
       - name: Checkout code
         uses: actions/checkout@v3
 
-      # Step 2: Set up Docker Buildx
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v2
 
-      # Step 3: Log in to Amazon ECR
       - name: Log in to Amazon ECR
         id: login-ecr
         uses: aws-actions/amazon-ecr-login@v1
 
-      # Step 4: Build Docker image
       - name: Build Docker image
         run: docker build -t ${{ secrets.ECR_REPOSITORY }}:latest .
 
-      # Step 5: Run unit tests
       - name: Run unit tests
         run: |
           echo "Running unit tests..."
           pytest tests/
 
-      # Step 6: Tag Docker image
       - name: Tag Docker image
         run: docker tag ${{ secrets.ECR_REPOSITORY }}:latest ${{ secrets.ECR_REPOSITORY }}:${{ github.sha }}
 
-      # Step 7: Push Docker image to ECR
       - name: Push Docker image to ECR
         run: docker push ${{ secrets.ECR_REPOSITORY }}:${{ github.sha }}
   
@@ -45,38 +38,40 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout code (optional, if you need the repository code)
       - name: Checkout code
         uses: actions/checkout@v3
 
-      # Step 2: Run Trivy scan on the Python 3.4-alpine image
       - name: Run Trivy vulnerability scan
         uses: aquasecurity/trivy-action@v0.9.0
         with:
           image-ref: 'python:3.4-alpine'
-          format: 'table'  # Output format (table, json, etc.)
-          exit-code: '1'   # Fail the build if vulnerabilities are found
-          severity: 'HIGH,CRITICAL'  # Only report high and critical vulnerabilities
+          format: 'table'  
+          exit-code: '1'   
+          severity: 'HIGH,CRITICAL' 
 
-  deploy-to-ecs:
-    needs: build-and-push
-    runs-on: ubuntu-latest
+    deploy-to-ecs:
+        needs: build-and-push
+        runs-on: ubuntu-latest
 
-    steps:
-      # Step 8: Configure AWS credentials
-      - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@v3
-        with:
-          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws-region: eu-west-1
+        steps:
+          - name: Wait for manual approval
+            uses: trstringer/manual-approval@v1
+            with:
+              secret: ${{ secrets.MANUAL_APPROVAL_TOKEN }}
+              prompt: 'Approve deployment to production?'
 
-      # Step 9: Update ECS service to force a new deployment
-      - name: Update ECS service
-        run: |
-          aws ecs update-service \
-            --cluster ${{ secrets.CLUSTER }} \
-            --service ${{ secrets.SERVICE_AWS_MASTERY }} \
-            --force-new-deployment \
-            --region eu-west-1
+          - name: Configure AWS credentials
+            uses: aws-actions/configure-aws-credentials@v3
+            with:
+              aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+              aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+              aws-region: eu-west-1
+
+          - name: Update ECS service
+            run: |
+              aws ecs update-service \
+                --cluster ${{ secrets.CLUSTER }} \
+                --service ${{ secrets.SERVICE_AWS_MASTERY }} \
+                --force-new-deployment \
+                --region eu-west-1
 
