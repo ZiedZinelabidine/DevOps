@@ -1,0 +1,156 @@
+---
+###
+# Base pipeline
+##
+image:
+  name: hashicorp/terraform:latest
+  entrypoint:
+    - '/usr/bin/env'
+    - 'PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+
+before_script:
+  - cd workspaces/${WORKSPACE}
+
+stages:
+  - init
+  - validate
+  - plan
+  - apply
+
+.init:
+  stage: init
+  script:
+    - terraform init
+  artifacts:
+    expire_in: 1 hour
+    paths:
+      - workspaces/${WORKSPACE}/.terraform/providers
+      - workspaces/${WORKSPACE}/.terraform/modules
+      - workspaces/${WORKSPACE}/.terraform/plugins
+      - workspaces/${WORKSPACE}/.terraform/terraform.tfstate
+      - workspaces/${WORKSPACE}/.terraform.lock.hcl
+
+.validate:
+  stage: validate
+  script:
+    - terraform fmt --diff=true --check=true --recursive=true
+    - terraform validate
+  except:
+    refs:
+      - main
+
+.plan:
+  stage: plan
+  script:
+    - terraform plan --out .terraform/terraform.tfplan
+  artifacts:
+    expire_in: 1 hour
+    paths:
+      - workspaces/${WORKSPACE}/.terraform/terraform.tfplan
+
+.apply:
+  stage: apply
+  script:
+    - terraform apply --input=false .terraform/terraform.tfplan
+  only:
+    refs:
+      - main
+
+###
+# AWS Organisation Pipeline
+##
+.aws-organization_variables: &aws-organization_variables
+  WORKSPACE: aws_organization
+
+init:aws-organization:
+  extends: .init
+  variables: *aws-organization_variables
+
+validate:aws-organization:
+  extends: .validate
+  needs:
+    - job: "init:aws-organization"
+      artifacts: true
+  variables: *aws-organization_variables
+
+plan:aws-organization:
+  extends: .plan
+  needs:
+    - job: "init:aws-organization"
+      artifacts: true
+  variables: *aws-organization_variables
+
+apply:aws-organization:
+  extends: .apply
+  needs:
+    - job: "init:aws-organization"
+      artifacts: true
+    - job: "plan:aws-organization"
+      artifacts: true
+  variables: *aws-organization_variables
+
+###
+# Production Pipeline
+##
+.production_variables: &production_variables
+  WORKSPACE: production
+
+init:production:
+  extends: .init
+  variables: *production_variables
+
+validate:production:
+  extends: .validate
+  needs:
+    - job: "init:production"
+      artifacts: true
+  variables: *production_variables
+
+plan:production:
+  extends: .plan
+  needs:
+    - job: "init:production"
+      artifacts: true
+  variables: *production_variables
+
+apply:production:
+  extends: .apply
+  needs:
+    - job: "init:production"
+      artifacts: true
+    - job: "plan:production"
+      artifacts: true
+  variables: *production_variables
+
+###
+# Test Pipeline
+##
+.test_variables: &test_variables
+  WORKSPACE: test
+
+init:test:
+  extends: .init
+  variables: *test_variables
+
+validate:test:
+  extends: .validate
+  needs:
+    - job: "init:test"
+      artifacts: true
+  variables: *test_variables
+
+plan:test:
+  extends: .plan
+  needs:
+    - job: "init:test"
+      artifacts: true
+  variables: *test_variables
+
+apply:test:
+  extends: .apply
+  needs:
+    - job: "init:test"
+      artifacts: true
+    - job: "plan:test"
+      artifacts: true
+  variables: *test_variables
