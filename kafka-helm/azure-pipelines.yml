@@ -1,0 +1,47 @@
+trigger:
+  branches:
+    include:
+      - main  
+
+stages:
+  - stage: Deploy
+    displayName: 'Deploy Kafka Helm Release'
+    jobs:
+      - job: Deploy
+        displayName: 'Deploy Job'
+        pool:
+          vmImage: 'ubuntu-latest' 
+        steps:
+          - script: |
+              apt-get update && apt-get install -y curl unzip bash jq git
+              curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3
+              chmod 700 get_helm.sh
+              ./get_helm.sh
+              helm plugin install https://github.com/databus23/helm-diff
+              curl -Lo awscli.zip https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip
+              unzip awscli.zip
+              ./aws/install -b ./aws-cli
+              export PATH="$PWD/aws-cli:$PATH"
+              aws --version
+              curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
+              chmod +x kubectl
+              mkdir -p ./bin
+              mv kubectl ./bin/
+              export PATH="$PWD/bin:$PATH"
+              kubectl version --client
+            displayName: 'Install Dependencies'
+
+          - script: |
+              CREDENTIALS=$(aws sts assume-role --role-arn arn:aws:iam::549328952149:role/devops-staging --role-session-name kube --output json)
+              export AWS_ACCESS_KEY_ID=$(echo $CREDENTIALS | jq -r .Credentials.AccessKeyId)
+              export AWS_SECRET_ACCESS_KEY=$(echo $CREDENTIALS | jq -r .Credentials.SecretAccessKey)
+              export AWS_SESSION_TOKEN=$(echo $CREDENTIALS | jq -r .Credentials.SessionToken)
+              aws eks update-kubeconfig --region $AWS_DEFAULT_REGION --name $EKS_CLUSTER_NAME
+              kubectl get nodes
+            displayName: 'Configure AWS and Assume Role'
+
+          - script: |
+              helm upgrade --install my-release ./path/to/helm/chart \
+                --namespace my-namespace \
+                --set image.tag=$IMAGE_TAG
+            displayName: 'Deploy Helm Release'

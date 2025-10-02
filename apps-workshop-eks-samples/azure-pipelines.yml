@@ -1,0 +1,82 @@
+trigger:
+  branches:
+    include:
+      - main
+
+stages:
+  - stage: Lint
+    displayName: 'Lint Stage'
+    jobs:
+      - job: Lint
+        displayName: 'Lint Job'
+        pool:
+          vmImage: 'ubuntu-latest'
+        steps:
+          - script: |
+              apk add --no-cache bash curl jq
+              curl -LO https://github.com/roboll/helmfile/releases/latest/download/helmfile_linux_amd64
+              chmod +x helmfile_linux_amd64
+              mv helmfile_linux_amd64 /usr/local/bin/helmfile
+              helmfile lint -f ./src/app/helmfile.yaml
+            displayName: 'Run Helmfile Lint'
+            condition: and(succeeded(), in(variables['Build.SourceBranch'], 'refs/heads/main', 'refs/merge/'))
+
+  - stage: Test
+    displayName: 'Test Stage'
+    jobs:
+      - job: Test
+        displayName: 'Test Job'
+        pool:
+          vmImage: 'ubuntu-latest'
+        steps:
+          - script: |
+              apk add --no-cache bash curl jq
+              curl -LO https://github.com/roboll/helmfile/releases/latest/download/helmfile_linux_amd64
+              chmod +x helmfile_linux_amd64
+              mv helmfile_linux_amd64 /usr/local/bin/helmfile
+              helmfile diff -f ./src/app/helmfile.yaml
+            displayName: 'Run Helmfile Diff'
+            condition: and(succeeded(), eq(variables['Build.SourceBranch'], 'refs/heads/main'))
+
+  - stage: Deploy
+    displayName: 'Deploy Stage'
+    jobs:
+      - job: Deploy
+        displayName: 'Deploy Job'
+        pool:
+          vmImage: 'ubuntu-latest'
+        steps:
+          - script: |
+              apt-get update && apt-get install -y curl unzip bash jq git
+              curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3
+              chmod 700 get_helm.sh
+              ./get_helm.sh
+              helm plugin install https://github.com/databus23/helm-diff
+              curl -Lo awscli.zip https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip
+              unzip awscli.zip
+              ./aws/install -b ./aws-cli
+              export PATH="$PWD/aws-cli:$PATH"
+              aws --version
+              curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
+              chmod +x kubectl
+              mkdir -p ./bin
+              mv kubectl ./bin/
+              export PATH="$PWD/bin:$PATH"
+              kubectl version --client
+              CREDENTIALS=$(aws sts assume-role --role-arn arn:aws:iam::549328952149:role/devops-staging --role-session-name kube --output json)
+              export AWS_ACCESS_KEY_ID=$(echo $CREDENTIALS | jq -r .Credentials.AccessKeyId)
+              export AWS_SECRET_ACCESS_KEY=$(echo $CREDENTIALS | jq -r .Credentials.SecretAccessKey)
+              export AWS_SESSION_TOKEN=$(echo $CREDENTIALS | jq -r .Credentials.SessionToken)
+              aws eks update-kubeconfig --region $AWS_DEFAULT_REGION --name $EKS_CLUSTER_NAME
+              kubectl get nodes
+              curl -LO https://github.com/roboll/helmfile/releases/latest/download/helmfile_linux_amd64
+              chmod +x helmfile_linux_amd64
+              mv helmfile_linux_amd64 /usr/local/bin/helmfile
+              helmfile --version
+              curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
+              chmod +x kubectl
+              mv kubectl /usr/local/bin/
+              kubectl version --client
+              helmfile apply
+            displayName: 'Run Helmfile Apply'
+            condition: and(succeeded(), eq(variables['Build.SourceBranch'], 'refs/heads/main'))
