@@ -1,0 +1,303 @@
+project 1:
+WordPress Elementor Personal Website Development
+Posted 7 minutes ago
+Worldwide
+Specialized profiles can help you better highlight your expertise when submitting proposals to jobs like these. Create a specialized profile.
+
+I am seeking a skilled web developer to create a personal website using WordPress with the Elementor page builder. The ideal candidate will have experience in designing responsive websites that are visually appealing and user-friendly. You will be responsible for customizing templates, integrating necessary plugins, and ensuring the site is optimized for performance. Attention to detail and creativity are key for this project, as I want my website to reflect my personal brand effectively.
+
+Less than 30 hrs/week
+Hourly
+1 to 3 months
+Project Length
+Intermediate
+I am looking for a mix of experience and value
+Project Type: Ongoing project
+Skills and Expertise
+WordPress
+Elementor
+Web Development
+Web Design
+CSS
+Preferred qualifications
+Activity on this job
+Proposals:
+20 to 50
+Last viewed by client:
+4 minutes ago
+Interviewing:
+4
+Invites sent:
+7
+Unanswered invites:
+4
+
+project 2:
+
+Build responsive WordPress site
+Posted 14 minutes ago
+Worldwide
+Specialized profiles can help you better highlight your expertise when submitting proposals to jobs like these. Create a specialized profile.
+
+WordPress Website Development – SEO-friendly site for our partner Offer
+
+We are looking for an experienced freelancer to develop a WordPress website on a subdomain of our main site. This site will showcase our partner's offering and must meet the following criteria:
+
+✅ SEO-friendly: well-structured for organic search ranking
+✅ Mobile-first: fully responsive and optimized for mobile performance
+✅ Modern IT-style design
+✅ Page integration based on our existing wireframes
+
+👉 Your mission:
+
+- Implement and structure the pages according to our defined sitemap
+- Optimize speed and usability
+- Apply SEO best practices (meta tags, internal linking, image optimization, etc.)
+- Ensure cross-browser compatibility and smooth mobile experience
+
+Required skills:
+- WordPress (expertise in themes and builders like Elementor or Gutenberg)
+-Technical SEO and performance optimization
+- UX/UI web design (simplicity, readability, accessibility)
+
+Experience in developing IT solution websites is a plus!
+💡 Please send us your portfolio and a time estimate for this project.
+
+Less than 30 hrs/week
+Hourly
+1 to 3 months
+Project Length
+Expert
+I am willing to pay higher rates for the most experienced freelancers
+$8.00
+
+-
+
+$30.00
+
+Hourly
+Project Type: Complex project
+Skills and Expertise
+Web Design Deliverables
+Website
+User Flow
+Landing Page
+Custom Web Design
+Web Design Skills
+Journey Mapping
+Prototyping
+Other
+WordPress
+Web Design
+HTML
+CSS
+Activity on this job
+Proposals:
+20 to 50
+Last viewed by client:
+4 minutes ago
+Interviewing:
+2
+Invites sent:
+3
+Unanswered invites:
+1
+
+project 3:
+Create E-commerce - Wordpress / Woocommerce Store
+Posted 6 minutes ago
+Worldwide
+Specialized profiles can help you better highlight your expertise when submitting proposals to jobs like these. Create a specialized profile.
+
+Hello,
+
+I need to create store on Wordpress / Woocommerce / Elementor.
+You can use template ! let me know
+
+--
+I'd like to work on a site for bicycle accessories.
+--
+
+I need a Home page / and a template for my product pages
+
+Less than 30 hrs/week
+Hourly
+1 to 3 months
+Project Length
+Expert
+I am willing to pay higher rates for the most experienced freelancers
+$3.00
+
+-
+
+$10.00
+
+Hourly
+Project Type: Ongoing project
+Skills and Expertise
+WooCommerce
+WordPress
+Web Development
+Web Design
+Activity on this job
+Proposals:
+Less than 5
+Last viewed by client:
+2 seconds ago
+Interviewing:
+0
+Invites sent:
+0
+Unanswered invites:
+0
+
+project 4:
+WordPress/WooCommerce Store Customization Needed
+Posted 13 minutes ago
+Worldwide
+Specialized profiles can help you better highlight your expertise when submitting proposals to jobs like these. Create a specialized profile.
+
+Hello, here are the things I need to fix, I offer $50 for this task. You would be working on the staging site, then once you are done, we would publish it on a live site. If everything is good, I will pay.
+
+Here is the file I need to help with: https://shorturl.at/d8loe
+
+Let me know, thank you
+Vil
+
+$50.00
+
+Fixed-price
+Intermediate
+I am looking for a mix of experience and value
+Contract-to-hire opportunity
+This lets talent know that this job could become full time.
+Learn more
+Project Type: Ongoing project
+Skills and Expertise
+WooCommerce
+WordPress
+Ecommerce Website
+Web Development
+Web Design
+WordPress Plugin
+Activity on this job
+Proposals:
+5 to 10
+Interviewing:
+0
+Invites sent:
+0
+Unanswered invites:
+0
+
+project 5:
+WordPress Website Page Arrangement and Menu Addition
+Posted 21 minutes ago
+Worldwide
+Specialized profiles can help you better highlight your expertise when submitting proposals to jobs like these. Create a specialized profile.
+
+I'm looking for an experienced WordPress developer to assist with my basic website. I've already set up the site but need help rearranging the pages and adding a few menus to enhance navigation. Your expertise will help improve the overall user experience. If you're skilled in WordPress development and have a good eye for design, please reach out with your portfolio and previous work examples. Let's work together to create a seamless website that meets the needs of my audience.
+
+$50.00
+
+Fixed-price
+Intermediate
+I am looking for a mix of experience and value
+Project Type: One-time project
+You will be asked to answer the following questions when submitting a proposal:
+
+Include a link to your GitHub profile and/or website
+Skills and Expertise
+WordPress
+Web Design
+CSS
+Web Development
+PHP
+Preferred qualifications
+Location:
+India
+Activity on this job
+Proposals:
+Less than 5
+Last viewed by client:
+9 minutes ago
+Interviewing:
+0
+Invites sent:
+0
+Unanswered invites:
+0
+
+project 6:
+WordPress Developer (Intermediate, Advanced, or Expert Level)
+Posted 24 minutes ago
+Worldwide
+Specialized profiles can help you better highlight your expertise when submitting proposals to jobs like these. Create a specialized profile.
+
+We’re looking for an experienced WordPress Developer to take over a partially developed website and bring it to completion. This project involves resolving bugs, implementing new features, and ensuring overall site optimization. While this is a project-based role, there is an opportunity for ongoing work for the right candidate. Please provide examples of your work when applying as we are very eager to see what each candidate has to offer!
+
+About the Project
+The website is a directory-based platform that allows users to search and filter locations based on variables such as location, price, and amenities. It also utilizes Google Maps for location tagging.
+
+Key Responsibilities:
+- Complete development of the existing WordPress site
+- Debug and optimize existing features
+- Implement new functionalities as required
+- Ensure web accessibility compliance (WCAG 2.0)
+- Work with custom post types and dynamic filtering
+- Maintain Google Maps integration
+- Develop and refine custom plugins (as needed)
+
+Required Skills & Experience:
+- Strong expertise in WordPress development
+- Experience with Elementor Pro and CrocoBlock (Jet Engine, Smart Filters, etc.)
+- Understanding of custom plugin development
+- Ability to ensure WCAG 2.0 compliance
+- Experience with directory-style websites
+- Familiarity with Google Maps API integration
+
+Tech Stack & Plugins Used:
+The current website uses the following plugins and tools:
+- Elementor Pro + Premium Addons Pro + The Plus Addon
+- CrocoBlock (Jet Engine, Smart Filters, etc.)
+- ME Calendar
+- FileBird - Media Library Management
+- Kinsta Cache
+- Protected Content (Resource Library)
+- WP Fusion
+
+Nice-to-Have Skills: (please indicate which of the following you are proficient in in your response)
+- Experience with the following would be a plus but not required:
+- Drip CRM integration
+- WPML (multilingual support)
+- Microsoft 365 integration
+
+More than 30 hrs/week
+Hourly
+3 to 6 months
+Project Length
+Intermediate
+I am looking for a mix of experience and value
+$15.00
+
+-
+
+$35.00
+
+Hourly
+Project Type: Ongoing project
+Skills and Expertise
+WordPress
+CSS
+Web Development
+HTML
+JavaScript
+Activity on this job
+Proposals:
+20 to 50
+Interviewing:
+0
+Invites sent:
+0
+Unanswered invites:
+0

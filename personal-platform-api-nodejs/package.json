@@ -1,0 +1,45 @@
+{
+    "name": "ItGalaxy-api",
+    "version": "0.1.0",
+    "description": "Best platform ever",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start:dev": "nodemon server"
+    },
+    "author": "Zied Zinelabidine <zzinelabidine@werollingupdate.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://gitlab.com/Itgalaxy1/itgalaxy-platform-backend.git"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "@aws-sdk/client-s3": "^3.670.0",
+        "@aws-sdk/s3-request-presigner": "^3.717.0",
+        "@sentry/node": "^8.48.0",
+        "aws-sdk": "^2.1692.0",
+        "axios": "^1.7.5",
+        "cookie-parser": "^1.4.6",
+        "cors": "^2.8.5",
+        "crypto": "^1.0.1",
+        "dotenv": "^16.4.5",
+        "express": "^4.17.1",
+        "express-session": "^1.18.0",
+        "fs": "^0.0.1-security",
+        "getstream": "^8.4.1",
+        "joi": "^17.12.1",
+        "jsonwebtoken": "^8.5.1",
+        "pg": "^8.6.0",
+        "pg-hstore": "^2.3.3",
+        "qs": "^6.13.1",
+        "requestanimationframe": "^0.0.23",
+        "sequelize": "^6.6.2",
+        "stream-chat": "^8.25.0",
+        "stripe": "^17.5.0",
+        "tslib": "^2.6.3",
+        "ws": "^8.18.0"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.3"
+    }
+}

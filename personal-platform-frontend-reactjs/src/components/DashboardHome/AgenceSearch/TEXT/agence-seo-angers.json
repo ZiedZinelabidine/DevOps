@@ -1,0 +1,238 @@
+{
+    "AgencySearchPage": {
+      "title": "Identifier les meilleures agences SEO à Angers",
+      "subtitle": "Optimisez votre image de marque avec nos spécialistes en SEO, présents à Angers et dans toute la région Pays de la Loire.",
+      "footer": {
+        "title": "Sélectionnez l'agence idéale pour votre projet de communication",
+        "text": "Notre annuaire facilite votre choix parmi les meilleures agences à Angers, en fonction de vos besoins précis."
+      },
+      "HelmetTitle": "Trouver une agence de SEO efficace à Angers",
+      "HelmetDescription": "Découvrez les principales agences, freelances ou cabinets spécialisés en communication à Angers, via la plateforme ItGalaxy.",
+      "HelmetURL": "https://itgalaxy.io/agence-seo-angers"
+    },
+    "BenefitsSection": {
+      "title": "Pourquoi opter pour notre plateforme ?",
+      "subtitle": "Voici pourquoi nous sommes votre partenaire privilégié pour votre stratégie de communication.",
+      "benefits": [
+        {
+          "icon": "Search",
+          "title": "Expertise locale",
+          "description": "Profitez de l’expérience d’agences proches de chez vous, à Angers et dans la région Pays de la Loire."
+        },
+        {
+          "icon": "Shield",
+          "title": "Partenaires vérifiés",
+          "description": "Nos partenaires sont sélectionnés avec soin pour leur sérieux, leur compétence et leur professionnalisme."
+        },
+        {
+          "icon": "Clock",
+          "title": "Gagner du temps",
+          "description": "Identifiez rapidement l’agence adaptée à votre projet grâce à notre plateforme intuitive et efficace."
+        },
+        {
+          "icon": "Users",
+          "title": "Contact direct",
+          "description": "Entrez directement en relation avec les agences pour échanger sur vos besoins et vos attentes."
+        },
+        {
+          "icon": "Award",
+          "title": "Résultats assurés",
+          "description": "Nos partenaires vous accompagnent pour atteindre efficacement vos objectifs de communication."
+        },
+        {
+          "icon": "TrendingUp",
+          "title": "Innovation et avant-garde",
+          "description": "Tirez parti des dernières évolutions en communication et marketing pour rester à la pointe."
+        }
+      ]
+    },
+    "ContactSection": {
+      "title": "Prêt à dynamiser votre SEO à Angers ?",
+      "subtitle": "Contactez notre équipe pour des conseils personnalisés et pour lancer votre projet d’optimisation dans la région."
+    },
+    "FAQSection": {
+        "title": "Questions fréquentes sur nos agences SEO à Angers",
+        "subtitle": "Obtenez des réponses claires à vos questions concernant notre plateforme et le choix d’une agence SEO à Angers.",
+        "faqs": [
+          {
+            "question": "Comment sélectionner la meilleure agence SEO à Angers ?",
+            "answer": "Vérifiez leur expérience locale, leurs références et leurs réussites précédentes à Angers. Notre plateforme simplifie la comparaison pour vous aider à faire le meilleur choix."
+          },
+          {
+            "question": "Quels sont les coûts moyens pour une campagne SEO à Angers ?",
+            "answer": "Les prix varient en fonction de la taille du projet et de la concurrence, mais un budget annuel débute généralement autour de 3000 € pour une PME."
+          },
+          {
+            "question": "Combien de temps faut-il pour voir des résultats en SEO à Angers ?",
+            "answer": "Il faut compter entre 3 et 6 mois en moyenne pour constater une amélioration notable dans le positionnement local."
+          },
+          {
+            "question": "Comment se déroulent les audits SEO à Angers ?",
+            "answer": "Les agences réalisent une analyse exhaustive de votre site, adaptée au contexte régional, puis proposent une stratégie sur-mesure."
+          },
+          {
+            "question": "Que faire si je ne suis pas satisfait des résultats ?",
+            "answer": "Discuter avec votre agence, ajuster la stratégie ou changer d'agence si les résultats ne sont pas à la hauteur après plusieurs mois."
+          },
+          {
+            "question": "Quelles techniques SEO privilégier à Angers ?",
+            "answer": "L'optimisation locale on-page, la création de backlinks locaux, l'amélioration technique du site, la recherche de mots-clés ciblés et la production de contenus régionaux."
+          },
+          {
+            "question": "Comment suivre l'évolution de mon SEO à Angers ?",
+            "answer": "Les agences fournissent des rapports réguliers avec des indicateurs tels que le classement, le trafic et les conversions organiques."
+          },
+          {
+            "question": "Le référencement naturel à Angers est-il durable ?",
+            "answer": "Oui, quand il est effectué selon les bonnes pratiques, le SEO offre une visibilité pérenne dans la région."
+          },
+          {
+            "question": "Combien coûte une campagne SEO à Angers ?",
+            "answer": "Le budget mensuel se situe généralement entre 3 000 € et 10 000 €, selon la taille et la complexité du projet."
+          },
+          {
+            "question": "Faut-il faire du SEO local ou national à Angers ?",
+            "answer": "Cela dépend de votre objectif : cibler la clientèle locale ou élargir à une audience nationale ou internationale."
+          },
+          {
+            "question": "Combien de temps dure une campagne SEO efficace à Angers ?",
+            "answer": "Une campagne productive dure entre 6 et 12 mois pour assurer des résultats durables."
+          },
+          {
+            "question": "Le SEO garantit-il une position première à Angers ?",
+            "answer": "Aucune agence ne peut garantir une position précise, mais une stratégie bien menée assure une forte visibilité locale à long terme."
+          },
+          {
+            "question": "Quelles sont les erreurs à éviter en SEO à Angers ?",
+            "answer": "Utiliser des techniques Black Hat, négliger la qualité du contenu ou ne pas respecter les recommandations techniques peut nuire à votre référencement."
+          },
+          {
+            "question": "Comment optimiser mon site pour le SEO à Angers ?",
+            "answer": "Travaillez le contenu local, structurer correctement votre site, optimiser la vitesse et obtenir des backlinks régionaux pertinents."
+          },
+          {
+            "question": "Quels avantages à externaliser le SEO à Angers ?",
+            "answer": "Une expertise locale pointue, un gain de temps pour votre équipe, l’accès à des outils professionnels et des résultats plus rapides."
+          },
+          {
+            "question": "Quelle différence entre SEO et SEA à Angers ?",
+            "answer": "Le SEO vise une visibilité organique durable, tandis que le SEA implique des publicités payantes pour des résultats immédiats, mais à coûts continus."
+          },
+          {
+            "question": "Comment suivre la performance de mon SEO à Angers ?",
+            "answer": "Utilisez Google Analytics, Search Console, et demandez à votre agence de vous fournir des rapports réguliers avec des indicateurs clés."
+          }
+        ]
+      },
+      "RecentProjectsSection": {
+        "title": "Nos réalisations en communication à Angers",
+        "description": "Découvrez nos projets concrets et les résultats obtenus avec nos partenaires locaux.",
+        "projects": [
+          {
+            "title": "Lancement d'une campagne événementielle",
+            "description": "Organisation d’un événement de marque à Angers, générant un fort engagement local.",
+            "image": "https://images.pexels.com/photos/3785147/pexels-photo-3785147.jpeg",
+            "engagement": "15%",
+            "reach": "10 000",
+            "roi": "300%"
+          },
+          {
+            "title": "Refonte de l’identité visuelle d’un magasin",
+            "description": "Création d’une nouvelle identité visuelle pour un commerce à Angers, renforçant sa notoriété.",
+            "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+            "engagement": "20%",
+            "reach": "8 000",
+            "roi": "350%"
+          },
+          {
+            "title": "Campagne de relations presse",
+            "description": "Relations médias pour un nouveau restaurant, permettant d’obtenir une visibilité notable dans la région.",
+            "image": "https://images.pexels.com/photos/5709661/pexels-photo-5709661.jpeg",
+            "engagement": "18%",
+            "reach": "12 000",
+            "roi": "400%"
+          },
+          {
+            "title": "Animation et gestion des réseaux sociaux",
+            "description": "Gestion des comptes sociaux d’une entreprise locale à Angers, avec augmentation de l’engagement.",
+            "image": "https://images.pexels.com/photos/4498606/pexels-photo-4498606.jpeg",
+            "engagement": "22%",
+            "reach": "15 000",
+            "roi": "420%"
+          },
+          {
+            "title": "Activations urbaines - Street Marketing",
+            "description": "Actions de street marketing pour promouvoir une marque dans la ville d’Angers.",
+            "image": "https://images.pexels.com/photos/1092671/pexels-photo-1092671.jpeg",
+            "engagement": "17%",
+            "reach": "9 000",
+            "roi": "370%"
+          }
+        ]
+      },
+      "TestimonialsSection": {
+        "title": "Les retours de nos clients à Angers",
+        "description": "Voici ce que nos clients disent de leur expérience avec notre plateforme pour trouver leur agence SEO idéale à Angers.",
+        "testimonials": [
+          {
+            "text": "Grâce à cette plateforme, nous avons rapidement trouvé une agence compétente pour notre projet à Angers. Tout s'est déroulé sans souci.",
+            "author": "Sophie Martin",
+            "title": "PDG, Boutique Mode Angers",
+            "rating": 5,
+            "avatar": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg"
+          },
+          {
+            "text": "Un outil très pratique pour comparer les agences SEO locales. Les filtres sont pertinents et nous avons pu faire un choix éclairé rapidement à Angers.",
+            "author": "Thomas Dubois",
+            "title": "Responsable Marketing, Tech Solutions Angers",
+            "rating": 4.5,
+            "avatar": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
+          },
+          {
+            "text": "Les agences référencées à Angers ont démontré un grand professionnalisme. Notre site a été optimisé rapidement et efficacement.",
+            "author": "Marie Lambert",
+            "title": "Fondatrice, Green Garden Angers",
+            "rating": 5,
+            "avatar": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg"
+          }
+        ]
+      },
+      "InfluenceMarketingSection": {
+        "title": "Collaborer avec une agence d'influence à Angers",
+        "description": "Le marketing d’influence local est un levier efficace pour augmenter votre visibilité et renforcer votre image dans la région Pays de la Loire.",
+        "benefits": [
+          {
+            "icon": "TrendingUp",
+            "title": "Stratégie régionalisée",
+            "description": "Les agences à Angers ont une connaissance approfondie du marché régional et proposent des stratégies ciblées."
+          },
+          {
+            "icon": "Target",
+            "title": "Ciblage précis",
+            "description": "Collaborer avec des influenceurs locaux permet d’atteindre une audience engagée dans la région Pays de la Loire."
+          },
+          {
+            "icon": "BarChart",
+            "title": "Résultats mesurables",
+            "description": "Suivez l’impact de vos campagnes grâce à des indicateurs précis et des analyses détaillées."
+          },
+          {
+            "icon": "Users",
+            "title": "Réseau d'influenceurs locaux",
+            "description": "Accédez à un réseau d’influenceurs régionaux pertinents et authentiques pour maximiser votre visibilité."
+          },
+          {
+            "icon": "Shield",
+            "title": "Gestion professionnelle",
+            "description": "Profitez d’une gestion complète des campagnes, de la conception à la réalisation, avec un suivi rigoureux."
+          },
+          {
+            "icon": "Globe",
+            "title": "Portée régionale et nationale",
+            "description": "Étendez votre influence en Pays de la Loire ou au-delà selon votre stratégie."
+          }
+        ]
+      }
+    }
+    
+

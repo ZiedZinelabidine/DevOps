@@ -1,0 +1,240 @@
+{
+  "AgencySearchPage": {
+      "title": "Trouvez Votre Agence SEO à Montpellier - Experts Locaux",
+      "subtitle": "Boostez votre visibilité à Montpellier avec les meilleurs experts SEO. Spécialistes du référencement local.",
+      "footer": {
+          "title": "L'Agence SEO Idéale pour Votre Projet à Montpellier",
+          "text": "Notre annuaire vous aide à sélectionner rapidement les agences SEO les plus adaptées à vos besoins à Montpellier."
+      },
+      "HelmetTitle": "Agence SEO Montpellier : Référencement Naturel Garanti",
+      "HelmetDescription": "Découvrez les meilleures agences SEO, freelances et spécialistes du référencement à Montpellier sur ItGalaxy. Augmentez votre trafic et vos ventes !",
+      "HelmetURL": "https://itgalaxy.io/agence-seo-montpellier"
+  },
+  "BenefitsSection": {
+      "title": "Pourquoi Choisir Notre Plateforme pour Votre SEO à Montpellier ?",
+      "subtitle": "La solution simple et efficace pour trouver les meilleurs experts en référencement à Montpellier.",
+      "benefits": [
+          {
+              "icon": "Search",
+              "title": "Experts SEO à Montpellier",
+              "description": "Améliorez votre positionnement sur Google avec nos spécialistes locaux."
+          },
+          {
+              "icon": "Shield",
+              "title": "Agences Vérifiées",
+              "description": "Nous sélectionnons rigoureusement les meilleures agences SEO à Montpellier pour leur sérieux et expertise."
+          },
+          {
+              "icon": "Clock",
+              "title": "Gain de Temps Assuré",
+              "description": "Trouvez rapidement l'agence idéale grâce à notre plateforme intuitive et performante."
+          },
+          {
+              "icon": "Users",
+              "title": "Mise en Relation Directe",
+              "description": "Contactez directement les experts SEO basés à Montpellier pour discuter de votre projet."
+          },
+          {
+              "icon": "Award",
+              "title": "Résultats Performants",
+              "description": "Nos agences vous garantissent une amélioration significative de votre visibilité dans la région."
+          },
+          {
+              "icon": "TrendingUp",
+              "title": "SEO Innovant à Montpellier",
+              "description": "Restez à la pointe des dernières tendances SEO à Montpellier grâce à nos agences partenaires."
+          }
+      ]
+  },
+  "ContactSection": {
+      "title": "Prêt(e) à Développer Votre SEO à Montpellier ?",
+      "subtitle": "Contactez notre équipe pour obtenir des recommandations personnalisées et lancez votre projet d'optimisation dès aujourd'hui."
+  },
+  "FAQSection": {
+      "title": "Questions Fréquentes sur le SEO à Montpellier",
+      "subtitle": "Trouvez les réponses à vos questions sur le choix d'une agence SEO et l'optimisation de votre site à Montpellier.",
+      "faqs": [
+          {
+              "question": "Comment choisir la meilleure agence SEO à Montpellier ?",
+              "answer": "Vérifiez leur expérience locale, leurs références et leurs résultats concrets à Montpellier. Notre plateforme vous aide à comparer et choisir."
+          },
+          {
+              "question": "Quel est le tarif moyen d'une campagne SEO à Montpellier ?",
+              "answer": "Les coûts varient selon la taille du projet et la concurrence. Un forfait annuel peut débuter à partir de 3000€ pour une PME à Montpellier."
+          },
+          {
+              "question": "Combien de temps faut-il pour voir des résultats SEO à Montpellier ?",
+              "answer": "En général, comptez entre 3 et 6 mois pour observer des améliorations significatives de votre positionnement local."
+          },
+          {
+              "question": "Comment se déroule un audit SEO à Montpellier ?",
+              "answer": "L'agence réalise une analyse complète de votre site et de votre marché local, puis vous propose une stratégie personnalisée."
+          },
+          {
+              "question": "Que faire si je ne suis pas satisfait(e) des résultats à Montpellier ?",
+              "answer": "Communiquez avec votre agence, ajustez la stratégie si nécessaire, ou changez d'agence si les résultats ne sont pas au rendez-vous."
+          },
+          {
+              "question": "Quelles sont les techniques SEO les plus efficaces à Montpellier ?",
+              "answer": "Optimisation locale, netlinking régional, SEO technique, recherche de mots-clés pertinents et création de contenu de qualité."
+          },
+          {
+              "question": "Comment suivre les performances de mon SEO à Montpellier ?",
+              "answer": "Votre agence vous fournira des rapports réguliers avec des indicateurs clés : positionnement, trafic organique, conversions, etc."
+          },
+          {
+              "question": "Le référencement naturel est-il un investissement durable à Montpellier ?",
+              "answer": "Oui, un bon SEO offre une visibilité durable et rentable à long terme dans la région de Montpellier."
+          },
+          {
+              "question": "Quel budget prévoir pour une campagne SEO à Montpellier ?",
+              "answer": "Le budget dépend de vos objectifs, mais une campagne sérieuse coûte généralement entre 3 000€ et 10 000€ par mois."
+          },
+          {
+              "question": "Faut-il privilégier le SEO local ou national à Montpellier ?",
+              "answer": "Le SEO local attire les clients de Montpellier et ses environs, le SEO national vise une audience plus large."
+          },
+          {
+              "question": "Combien de temps dure une campagne SEO à Montpellier ?",
+              "answer": "Une campagne efficace dure entre 6 et 12 mois pour obtenir des résultats durables et un ROI optimal."
+          },
+          {
+              "question": "Le SEO garantit-il la première position sur Google à Montpellier ?",
+              "answer": "Aucune agence ne peut garantir une position précise, mais une bonne stratégie vous assure une visibilité maximale."
+          },
+          {
+              "question": "Quelles erreurs éviter en SEO à Montpellier ?",
+              "answer": "Utiliser des techniques Black Hat, négliger la qualité du contenu et ne pas tenir compte des spécificités locales."
+          },
+          {
+              "question": "Comment optimiser mon site pour le SEO à Montpellier ?",
+              "answer": "En travaillant le contenu local, la structure technique, la vitesse de chargement et les backlinks de qualité."
+          },
+          {
+              "question": "Pourquoi externaliser son SEO à Montpellier ?",
+              "answer": "Pour bénéficier de l'expertise locale, gagner du temps, accéder à des outils performants et obtenir des résultats plus rapides."
+          },
+          {
+              "question": "Quelle est la différence entre SEO et SEA à Montpellier ?",
+              "answer": "Le SEO est un investissement durable pour le long terme, tandis que le SEA est une solution payante pour une visibilité immédiate."
+          }
+      ]
+  },
+  "RecentProjectsSection": {
+      "title": "Nos Réussites SEO à Montpellier",
+      "description": "Découvrez nos projets SEO et les résultats concrets obtenus avec nos clients partenaires à Montpellier.",
+      "projects": [
+          {
+              "title": "Trafic +150% pour une boutique en ligne",
+              "description": "Optimisation complète d'une boutique en ligne montpelliéraine, avec une croissance de 150% du trafic organique.",
+              "image": "https://images.pexels.com/photos/3785147/pexels-photo-3785147.jpeg",
+              "engagement": "12%",
+              "reach": "50K",
+              "roi": "400%"
+          },
+          {
+              "title": "Top 3 Google Maps pour un restaurant",
+              "description": "Amélioration du référencement local, apparition en top 3 Google Maps à Montpellier.",
+              "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+              "engagement": "10%",
+              "reach": "20K",
+              "roi": "350%"
+          },
+          {
+              "title": "Refonte SEO : Trafic multiplié par 2 en 6 mois",
+              "description": "Refonte technique et stratégique, augmentation de 200% du trafic en 6 mois à Montpellier.",
+              "image": "https://images.pexels.com/photos/5709661/pexels-photo-5709661.jpeg",
+              "engagement": "15%",
+              "reach": "30K",
+              "roi": "420%"
+          },
+          {
+              "title": "SEO Mobile : Hausse des Conversions",
+              "description": "Optimisation mobile, amélioration des conversions dans la région montpelliéraine.",
+              "image": "https://images.pexels.com/photos/4498606/pexels-photo-4498606.jpeg",
+              "engagement": "18%",
+              "reach": "40K",
+              "roi": "380%"
+          },
+          {
+              "title": "Stratégie de Contenu : Positionnement en 1ère Page",
+              "description": "Création de contenu optimisé, positionnement en première page dans la région de Montpellier.",
+              "image": "https://images.pexels.com/photos/1092671/pexels-photo-1092671.jpeg",
+              "engagement": "20%",
+              "reach": "25K",
+              "roi": "410%"
+          },
+          {
+              "title": "Amélioration des Performances Techniques",
+              "description": "Optimisation technique du site, accélération du chargement, gains de performance à Montpellier.",
+              "image": "https://images.pexels.com/photos/5706208/pexels-photo-5706208.jpeg",
+              "engagement": "13%",
+              "reach": "35K",
+              "roi": "390%"
+          }
+      ]
+  },
+  "TestimonialsSection": {
+      "title": "Ce que Nos Clients Disent de Nous à Montpellier",
+      "description": "Découvrez les témoignages de clients ayant trouvé leur agence SEO idéale à Montpellier grâce à notre plateforme.",
+      "testimonials": [
+          {
+              "text": "Grâce à cette plateforme, nous avons trouvé l'agence parfaite pour notre projet à Montpellier. Le processus a été simple et efficace.",
+              "author": "Sophie Martin",
+              "title": "CEO, Boutique Mode Montpellier",
+              "rating": 5,
+              "avatar": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg"
+          },
+          {
+              "text": "Un outil formidable pour comparer les agences SEO locales. Les filtres sont précis et nous ont permis de faire le bon choix rapidement à Montpellier.",
+              "author": "Thomas Dubois",
+              "title": "Directeur Marketing, Tech Solutions Montpellier",
+              "rating": 4.5,
+              "avatar": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
+          },
+          {
+              "text": "La qualité des agences référencées à Montpellier est impressionnante. Notre site a été livré dans les temps et a dépassé nos attentes.",
+              "author": "Marie Lambert",
+              "title": "Fondatrice, Green Garden Montpellier",
+              "rating": 5,
+              "avatar": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg"
+          }
+      ]
+  },
+  "InfluenceMarketingSection": {
+      "title": "Agence Marketing d'Influence à Montpellier : Développez Votre Notoriété",
+      "description": "Le marketing d'influence est un levier puissant pour atteindre votre audience cible à Montpellier. Découvrez les avantages de collaborer avec une agence spécialisée.",
+      "benefits": [
+          {
+              "icon": "TrendingUp",
+              "title": "Stratégie Personnalisée",
+              "description": "Nos experts analysent les tendances locales à Montpellier et sélectionnent les influenceurs les plus pertinents pour votre marque."
+          },
+          {
+              "icon": "Target",
+              "title": "Ciblage Précis à Montpellier",
+              "description": "Atteignez votre audience locale grâce à des créateurs de contenu influents et engagés."
+          },
+          {
+              "icon": "BarChart",
+              "title": "Mesure des Résultats",
+              "description": "Suivez et optimisez vos campagnes grâce à des indicateurs clés de performance (KPIs) adaptés au marché montpelliérain."
+          },
+          {
+              "icon": "Users",
+              "title": "Réseau d'Influenceurs",
+              "description": "Accédez à un vaste réseau d'influenceurs locaux et régionaux pour maximiser l'impact de vos campagnes."
+          },
+          {
+              "icon": "Shield",
+              "title": "Gestion Professionnelle",
+              "description": "Confiez la gestion de vos campagnes à nos experts, qui connaissent parfaitement le marché de Montpellier."
+          },
+          {
+              "icon": "Globe",
+              "title": "Portée Locale et Internationale",
+              "description": "Développez votre influence à Montpellier et au-delà grâce à des campagnes ciblées."
+          }
+      ]
+  }
+}

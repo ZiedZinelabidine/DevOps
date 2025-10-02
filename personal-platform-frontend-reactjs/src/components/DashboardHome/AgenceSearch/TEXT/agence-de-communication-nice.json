@@ -1,0 +1,302 @@
+{
+    "AgencySearchPage": {
+      "title": "Trouver les meilleures agences de communication à Nice",
+      "subtitle": "Améliorez votre image de marque avec nos experts en communication, situés à Nice et dans toute la Côte d'Azur.",
+      "footer": {
+        "title": "Trouvez l'agence de communication idéale pour votre projet",
+        "text": "Notre annuaire vous aide à choisir parmi les meilleures agences de communication à Nice selon vos besoins spécifiques."
+      },
+      "HelmetTitle": "Trouver une agence de communication performante à Nice",
+      "HelmetDescription": "Découvrez les meilleures agences, freelances ou agences spécialisées en communication à Nice sur la plateforme ItGalaxy.",
+      "HelmetURL": "https://itgalaxy.io/agence-communication-nice"
+    },
+    "BenefitsSection": {
+      "title": "Pourquoi nous choisir ?",
+      "subtitle": "Découvrez pourquoi notre plateforme est votre meilleure option pour confier votre stratégie de communication.",
+      "benefits": [
+        {
+          "icon": "Search",
+          "title": "Expertise locale",
+          "description": "Bénéficiez de l’expérience d’agences proches de vous, à Nice et dans la Côte d'Azur."
+        },
+        {
+          "icon": "Shield",
+          "title": "Agences vérifiées",
+          "description": "Nos partenaires sont soigneusement sélectionnés pour leur sérieux et leur professionnalisme."
+        },
+        {
+          "icon": "Clock",
+          "title": "Gain de temps",
+          "description": "Trouver l’agence idéale rapidement grâce à notre plateforme simple et efficace."
+        },
+        {
+          "icon": "Users",
+          "title": "Mise en relation directe",
+          "description": "Contactez directement les agences pour discuter de votre projet."
+        },
+        {
+          "icon": "Award",
+          "title": "Résultats garantis",
+          "description": "Nos partenaires vous aident à atteindre vos objectifs de communication."
+        },
+        {
+          "icon": "TrendingUp",
+          "title": "Tendance et innovation",
+          "description": "Profitez des dernières tendances dans la communication et le marketing."
+        }
+      ]
+    },
+    "ContactSection": {
+      "title": "Prêt à développer votre communication ?",
+      "subtitle": "Contactez notre équipe pour une recommandation personnalisée et démarrer rapidement votre projet."
+    },
+    "FAQSection": {
+      "title": "Questions fréquentes",
+      "subtitle": "Trouvez les réponses à toutes vos questions concernant la sélection d’une agence de communication à Nice.",
+      "faqs": [
+        {
+          "question": "Comment choisir la bonne agence de communication à Nice ?",
+          "answer": "Vérifiez leur expérience locale, leur portfolio, leurs références clients, et leurs compétences sectorielles. Utilisez notre plateforme pour comparer."
+        },
+        {
+          "question": "Quels sont les coûts typiques pour une campagne de communication ?",
+          "answer": "Les prix varient selon la portée et la complexité du projet, allant généralement de 2000€ à 20 000€ selon la prestation."
+        },
+        {
+          "question": "Combien de temps pour élaborer une stratégie de communication ?",
+          "answer": "Cela peut prendre entre 2 semaines et 1 mois pour une stratégie complète adaptée à vos besoins."
+        },
+        {
+          "question": "Comment mesurer l’efficacité d’une campagne de communication ?",
+          "answer": "Suivez les indicateurs clés : notoriété, engagement, leads générés, retombées médiatiques et retour sur investissement."
+        },
+        {
+          "question": "Que faire si je ne suis pas satisfait du résultat ?",
+          "answer": "Discutez avec votre agence, ajustez la stratégie ou changez d’agence si nécessaire après avoir exprimé vos attentes."
+        },
+        {
+          "question": "Quels services proposent généralement les agences à Nice ?",
+          "answer": "Relations presse, communication digitale, identité visuelle, événementiel, community management, etc."
+        },
+        {
+          "question": "Les agences locales offrent-elles des services sur mesure ?",
+          "answer": "Oui, elles adaptent leur stratégie à votre marché local et à vos objectifs spécifiques."
+        },
+        {
+          "question": "Comment se déroule un appel d’offres avec une agence ?",
+          "answer": "Vous définissez vos besoins, recevez des propositions, puis choisissez celle qui correspond le mieux à vos attentes."
+        },
+        {
+          "question": "Faut-il faire appel à une agence pour une campagne sur les réseaux sociaux ?",
+          "answer": "Souvent recommandé, surtout pour un bon ciblage, création de contenu et gestion de communauté efficace."
+        },
+        {
+            "question": "Faut-il faire appel à une agence pour une campagne sur les réseaux sociaux ?",
+            "answer": "Souvent recommandé, surtout pour un bon ciblage, création de contenu et gestion de communauté efficace."
+          },
+          {
+            "question": "Comment choisir une agence spécialisée en communication à Nice ?",
+            "answer": "Vérifiez leur expérience locale, leurs références clients, leurs études de cas et leur engagement dans votre secteur d’activité."
+          },
+          {
+            "question": "Quels sont les avantages d'une agence locale à Nice ?",
+            "answer": "Une meilleure connaissance du marché local, des réseaux proches de vous et une meilleure compréhension des spécificités régionales."
+          },
+          {
+            "question": "Combien coûte une campagne de communication à Nice ?",
+            "answer": "Les prix dépendent de la complexité, mais généralement entre 2000€ et 20 000€ selon l’envergure du projet."
+          },
+          {
+            "question": "Combien de temps dure un partenariat avec une agence ?",
+            "answer": "Cela varie selon le projet, mais généralement entre 3 mois et plusieurs années pour des campagnes continues."
+          },
+          {
+            "question": "Les agences à Nice proposent-elles un accompagnement complet ?",
+            "answer": "Oui, la plupart proposent un accompagnement global, de la stratégie à la réalisation et au suivi."
+          },
+          {
+            "question": "Comment évaluer une agence avant de signer ?",
+            "answer": "Vérifiez leurs références, portfolio, témoignages clients, leur compréhension de vos enjeux et leur offre de services."
+          },
+          {
+            "question": "Est-ce mieux d’externaliser ou de développer en interne ?",
+            "answer": "Cela dépend de votre budget, de votre expertise interne et de l’envergure de votre campagne. Faire appel à une agence permet souvent plus de spécialisation et d’efficacité."
+          },
+          {
+            "question": "Quels sont les critères pour sélectionner la meilleure agence à Nice ?",
+            "answer": "Expérience locale, portfolio, résultats passés, compatibilité avec votre secteur, et coût."
+          },
+          {
+            "question": "Les agences offrent-elles des audits gratuits ?",
+            "answer": "Certaines proposent des audits initiaux gratuits pour analyser votre communication ou votre présence digitale."
+          },
+          {
+            "question": "Comment suivre l’avancement de la campagne ?",
+            "answer": "Grâce à des reportings réguliers, des réunions de pilotage et des KPI clairement définis dès le départ."
+          },
+          {
+            "question": "Comment choisir la meilleure agence de communication à Nice ?",
+            "answer": "Vérifiez leur expérience locale, leur portfolio, leurs références clients, leurs compétences sectorielles, et comparez leurs offres via notre plateforme."
+          },
+          {
+            "question": "Quels sont les principaux avantages de travailler avec une agence locale à Nice ?",
+            "answer": "Une meilleure connaissance du marché local, une réactivité accrue, des échanges plus fluides, et une compréhension précise des enjeux régionaux."
+          },
+          {
+            "question": "Combien coûte en moyenne une prestation de communication à Nice ?",
+            "answer": "Cela dépend de l’étendue des services, généralement entre 3000€ et 25000€ selon la nature du projet et la taille de l’agence."
+          },
+          {
+            "question": "Combien de temps faut-il pour lancer une campagne de communication ?",
+            "answer": "Environ 2 à 4 semaines pour la planification, puis la mise en œuvre selon la complexité du projet."
+          },
+          {
+            "question": "Est-ce que les agences locales à Nice proposent des campagnes sur-mesure ?",
+            "answer": "Oui, la majorité d’entre elles adaptent leurs stratégies à vos objectifs spécifiques et à votre secteur d’activité."
+          },
+          {
+            "question": "Comment puis-je avoir confiance dans une agence que je ne connais pas ?",
+            "answer": "Vérifiez leurs références, demandez des études de cas, consultez leurs avis clients et discuterez de leur méthodologie."
+          },
+          {
+            "question": "Quels types de services une agence de communication à Nice peut-elle offrir ?",
+            "answer": "Relations publiques, communication digitale, branding, création de contenu, événementiel, community management, etc."
+          },
+          {
+            "question": "Quels bénéfices à externaliser ma communication à Nice ?",
+            "answer": "Expertise spécialisée, gain de temps, réduction de charges internes, accès à des outils et des stratégies innovantes."
+          },
+          {
+            "question": "Comment sélectionner une agence adaptée à mon secteur d’activité ?",
+            "answer": "Privilégiez celles qui ont déjà travaillé dans votre secteur, avec des références et des résultats prouvés."
+          },
+          {
+            "question": "Les agences à Nice proposent-elles des audits pour évaluer votre communication ?",
+            "answer": "Oui, la plupart proposent des audits initiaux gratuits ou payants pour diagnostiquer votre situation et définir une stratégie adaptée."
+          },
+          {
+            "question": "Comment suivre et évaluer le succès d’une campagne de communication à Nice ?",
+            "answer": "En utilisant des indicateurs clés comme la notoriété, l’engagement sur les réseaux sociaux, le trafic généré, les leads, et le retour sur investissement mesuré via des outils analytiques."
+          }]
+    },
+    "RecentProjectsSection": {
+    "title": "Nos succès en communication à Nice",
+    "description": "Découvrez nos projets et résultats concrets en communication avec nos partenaires locaux.",
+    "projects": [
+      {
+        "title": "Lancement de campagne événementielle",
+        "description": "Organisation d’un événement de marque à Nice, générant un fort engagement local.",
+        "image": "https://images.pexels.com/photos/3785147/pexels-photo-3785147.jpeg",
+        "engagement": "15%",
+        "reach": "10K",
+        "roi": "300%"
+      },
+      {
+        "title": "Refonte identité visuelle d’un hôtel",
+        "description": "Création d’une nouvelle identité visuelle pour un hôtel à Nice, boostant la notoriété.",
+        "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+        "engagement": "20%",
+        "reach": "8K",
+        "roi": "350%"
+      },
+      {
+        "title": "Campagne de relations presse",
+        "description": "Relations médias pour un nouveau restaurant, obtenant une visibilité importante dans la région.",
+        "image": "https://images.pexels.com/photos/5709661/pexels-photo-5709661.jpeg",
+        "engagement": "18%",
+        "reach": "12K",
+        "roi": "400%"
+      },
+      {
+        "title": "Gestion des réseaux sociaux",
+        "description": "Gestion et animation des réseaux sociaux d’une agence immobilière à Nice.",
+        "image": "https://images.pexels.com/photos/4498606/pexels-photo-4498606.jpeg",
+        "engagement": "22%",
+        "reach": "15K",
+        "roi": "420%"
+      },
+      {
+        "title": "Campagne de Street Marketing",
+        "description": "Animations et urban marketing pour une nouvelle marque locale.",
+        "image": "https://images.pexels.com/photos/1092671/pexels-photo-1092671.jpeg",
+        "engagement": "17%",
+        "reach": "9K",
+        "roi": "370%"
+      },
+      {
+        "title": "Création de contenu vidéo",
+        "description": "Vidéos promotionnelles pour un centre commercial à Nice, augmentant la fréquentation.",
+        "image": "https://images.pexels.com/photos/5706208/pexels-photo-5706208.jpeg",
+        "engagement": "25%",
+        "reach": "20K",
+        "roi": "410%"
+      }
+    ]
+  },
+  "TestimonialsSection": {
+    "title": "Ce que disent nos clients",
+    "description": "Découvrez les retours des clients qui ont trouvé leur agence de communication idéale via notre plateforme.",
+    "testimonials": [
+      {
+        "text": "L’agence à Nice que j’ai trouvée ici a transformé notre communication de marque. Résultats incroyables.",
+        "author": "Claire Dupont",
+        "title": "Directrice, Hôtel Riviera",
+        "rating": 5,
+        "avatar": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg"
+      },
+      {
+        "text": "Une plateforme simple d’utilisation qui nous a permis de choisir rapidement notre agence locale.",
+        "author": "Luc Bianchi",
+        "title": "CEO, StartUp Côte d’Azur",
+        "rating": 4.5,
+        "avatar": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
+      },
+      {
+        "text": "Très satisfait de la démarche. Notre campagne à Nice a dépassé nos attentes.",
+        "author": "Sandrine Lefèvre",
+        "title": "Responsable com, Agence Immobilière",
+        "rating": 5,
+        "avatar": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg"
+      }
+    ]
+  },
+    "InfluenceMarketingSection": {
+      "title": "Pourquoi collaborer avec une agence influence à Nice ?",
+      "description": "Le marketing d'influence local est très efficace pour toucher une audience ciblée et renforcer votre image en région PACA.",
+      "benefits": [
+        {
+          "icon": "TrendingUp",
+          "title": "Stratégie locale adaptée",
+          "description": "Les agences à Nice connaissent parfaitement le marché régional et vous proposent une stratégie ciblée."
+        },
+        {
+          "icon": "Target",
+          "title": "Ciblage précis",
+          "description": "Collaborer avec des influenceurs locaux permet de toucher une audience qualifiée et engagée dans la région PACA."
+        },
+        {
+          "icon": "BarChart",
+          "title": "Résultats mesurables",
+          "description": "Suivez l’impact de vos campagnes grâce à des indicateurs précis et une analyse détaillée des performances."
+        },
+        {
+          "icon": "Users",
+          "title": "Réseau d'influenceurs locaux",
+          "description": "Accédez à un réseau d’influenceurs régionaux, pertinents et authentiques pour maximiser la portée."
+        },
+        {
+          "icon": "Shield",
+          "title": "Gestion professionnelle",
+          "description": "Profitez d'une gestion complète des campagnes, de la conception à la réalisation, avec un suivi rigoureux."
+        },
+        {
+          "icon": "Globe",
+          "title": "Portée régionale et nationale",
+          "description": "Extension de votre influence en région PACA et au-delà, selon votre stratégie."
+        }
+      ]
+    }
+    }
+          
+          
+          

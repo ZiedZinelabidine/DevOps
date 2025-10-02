@@ -1,0 +1,272 @@
+{
+  "AgencySearchPage": {
+    "title": "Agences SEO à Marseille : Trouvez l'Expert Qu'il Vous Faut",
+    "subtitle": "Boostez votre présence en ligne à Marseille avec les meilleures agences SEO locales. Experts en référencement naturel.",
+    "footer": {
+      "title": "Votre Agence SEO Idéale à Marseille est Ici",
+      "text": "Notre annuaire vous aide à trouver rapidement l'agence SEO parfaite pour vos besoins à Marseille."
+    },
+    "HelmetTitle": "Agence SEO Marseille : Référencement Naturel Performant",
+    "HelmetDescription": "Trouvez les meilleures agences SEO et freelances spécialisés en référencement à Marseille sur ItGalaxy. Augmentez votre visibilité !",
+    "HelmetURL": "https://itgalaxy.io/agence-seo-marseille"
+  },
+  "BenefitsSection": {
+    "title": "Pourquoi Choisir Notre Plateforme pour Votre SEO à Marseille ?",
+    "subtitle": "La solution idéale pour trouver et collaborer avec des experts SEO à Marseille.",
+    "benefits": [
+      {
+        "icon": "Search",
+        "title": "Experts SEO Marseillais",
+        "description": "Améliorez votre positionnement Google avec nos spécialistes locaux."
+      },
+      {
+        "icon": "Shield",
+        "title": "Agences Vérifiées",
+        "description": "Nous sélectionnons rigoureusement les meilleures agences SEO à Marseille."
+      },
+      {
+        "icon": "Clock",
+        "title": "Gain de Temps Assuré",
+        "description": "Trouvez rapidement l'agence idéale grâce à notre plateforme intuitive."
+      },
+      {
+        "icon": "Users",
+        "title": "Experts Locaux à Votre Service",
+        "description": "Contactez directement des experts SEO basés à Marseille."
+      },
+      {
+        "icon": "Award",
+        "title": "Résultats Garantis",
+        "description": "Nos agences vous assurent une visibilité accrue dans la région."
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "SEO Innovant",
+        "description": "Restez à la pointe du référencement local à Marseille."
+      }
+    ]
+  },
+  "ContactSection": {
+    "title": "Prêt à Développer Votre SEO à Marseille ?",
+    "subtitle": "Contactez notre équipe pour des conseils personnalisés et lancez votre projet d'optimisation."
+  },
+  "FAQSection": {
+    "title": "FAQ : Votre SEO à Marseille",
+    "subtitle": "Réponses aux questions fréquentes sur notre plateforme et le choix de votre agence SEO à Marseille.",
+    "faqs": [
+      {
+        "question": "Comment choisir la meilleure agence SEO à Marseille ?",
+        "answer": "Expérience locale, références solides, résultats prouvés... Notre plateforme vous aide à comparer et choisir."
+      },
+      {
+        "question": "Quel est le coût d'une campagne SEO à Marseille ?",
+        "answer": "Variable selon le projet et la concurrence. Comptez au moins 3000€ par an pour une PME."
+      },
+      {
+        "question": "Combien de temps pour voir des résultats SEO à Marseille ?",
+        "answer": "Généralement 3 à 6 mois pour des améliorations significatives du positionnement."
+      },
+      {
+        "question": "Comment se déroule un audit SEO à Marseille ?",
+        "answer": "Analyse complète de votre site et stratégie sur-mesure adaptée au marché local."
+      },
+      {
+        "question": "Que faire si je suis insatisfait des résultats à Marseille ?",
+        "answer": "Discutez avec votre agence ou changez si les résultats tardent à venir."
+      },
+      {
+        "question": "Quelles sont les meilleures techniques SEO à Marseille ?",
+        "answer": "Optimisation locale, netlinking régional, SEO technique, mots-clés locaux, contenu ciblé."
+      },
+      {
+        "question": "Comment suivre les performances de mon SEO à Marseille ?",
+        "answer": "Rapports réguliers avec indicateurs clés : positionnement, trafic organique, conversions."
+      },
+        {
+            "question": "Comment choisir la meilleure agence SEO à Marseille ?",
+            "answer": "Expérience locale, références solides, résultats prouvés... Notre plateforme vous aide à comparer et choisir."
+          },
+          {
+            "question": "Quel est le coût d'une campagne SEO à Marseille ?",
+            "answer": "Variable selon le projet et la concurrence. Comptez au moins 3000€ par an pour une PME."
+          },
+          {
+            "question": "Combien de temps pour voir des résultats SEO à Marseille ?",
+            "answer": "Généralement 3 à 6 mois pour des améliorations significatives du positionnement."
+          },
+          {
+            "question": "Comment se déroule un audit SEO à Marseille ?",
+            "answer": "Analyse complète de votre site et stratégie sur-mesure adaptée au marché local."
+          },
+          {
+            "question": "Que faire si je suis insatisfait des résultats à Marseille ?",
+            "answer": "Discutez avec votre agence ou changez si les résultats tardent à venir."
+          },
+          {
+            "question": "Quelles sont les meilleures techniques SEO à Marseille ?",
+            "answer": "Optimisation locale, netlinking régional, SEO technique, mots-clés locaux, contenu ciblé."
+          },
+          {
+            "question": "Comment suivre les performances de mon SEO à Marseille ?",
+            "answer": "Rapports réguliers avec indicateurs clés : positionnement, trafic organique, conversions."
+          },
+          {
+            "question": "Le SEO est-il un investissement durable à Marseille ?",
+            "answer": "Oui, un bon SEO offre une visibilité durable et rentable à long terme."
+          },
+          {
+            "question": "Quel budget prévoir pour une campagne SEO à Marseille ?",
+            "answer": "Le budget varie, mais une campagne sérieuse coûte entre 3 000€ et 10 000€ par mois."
+          },
+          {
+            "question": "Faut-il privilégier le SEO local ou national à Marseille ?",
+            "answer": "Le SEO local attire les clients de Marseille, le SEO national une audience plus large."
+          },
+          {
+            "question": "Quelle est la durée idéale d'une campagne SEO à Marseille ?",
+            "answer": "Une campagne efficace dure entre 6 et 12 mois pour des résultats durables."
+          },
+          {
+            "question": "Le SEO garantit-il la première position sur Google à Marseille ?",
+            "answer": "Aucune garantie, mais une bonne stratégie assure une visibilité locale forte."
+          },
+          {
+            "question": "Quelles erreurs éviter en SEO à Marseille ?",
+            "answer": "Techniques Black Hat, contenu de faible qualité, négligence des aspects techniques."
+          },
+          {
+            "question": "Comment optimiser mon site pour le SEO à Marseille ?",
+            "answer": "Contenu local pertinent, structure technique optimisée, vitesse de chargement rapide, backlinks de qualité."
+          },
+          {
+            "question": "Pourquoi externaliser son SEO à Marseille ?",
+            "answer": "Expertise locale, gain de temps, outils avancés, résultats plus rapides."
+          },
+          {
+            "question": "Quelle est la différence entre SEO et SEA à Marseille ?",
+            "answer": "SEO : référencement naturel durable. SEA : publicité payante rapide."
+          },
+          {
+            "question": "Comment bien choisir son agence SEO à Marseille ?",
+            "answer": "Expérience locale, références, résultats concrets, compréhension du marché marseillais."
+          }
+    ]
+  },
+  "RecentProjectsSection": {
+    "title": "Nos Réussites SEO à Marseille",
+    "description": "Exemples concrets de nos projets SEO et résultats obtenus avec nos clients à Marseille.",
+    "projects": [
+      {
+        "title": "Trafic +150% pour une boutique en ligne",
+        "description": "Optimisation complète, croissance spectaculaire du trafic organique à Marseille.",
+        "image": "https://images.pexels.com/photos/3785147/pexels-photo-3785147.jpeg",
+        "engagement": "12%",
+        "reach": "50K",
+        "roi": "400%"
+      },
+      {
+        "title": "Top 3 Google Maps pour un restaurant",
+        "description": "Amélioration du référencement local, visibilité accrue sur Google Maps à Marseille.",
+        "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+        "engagement": "10%",
+        "reach": "20K",
+        "roi": "350%"
+      },
+      {
+        "title": "Refonte SEO : Trafic x2 en 6 mois",
+        "description": "Refonte technique et stratégique, doublement du trafic en six mois à Marseille.",
+        "image": "https://images.pexels.com/photos/5709661/pexels-photo-5709661.jpeg",
+        "engagement": "15%",
+        "reach": "30K",
+        "roi": "420%"
+      },
+      {
+        "title": "SEO Mobile : + de Conversions",
+        "description": "Optimisation mobile, amélioration des conversions dans la région marseillaise.",
+        "image": "https://images.pexels.com/photos/4498606/pexels-photo-4498606.jpeg",
+        "engagement": "18%",
+        "reach": "40K",
+        "roi": "380%"
+      },
+      {
+        "title": "Stratégie de Contenu : 1ère Page Google",
+        "description": "Création de contenu optimisé, positionnement en première page à Marseille.",
+        "image": "https://images.pexels.com/photos/1092671/pexels-photo-1092671.jpeg",
+        "engagement": "20%",
+        "reach": "25K",
+        "roi": "410%"
+      },
+      {
+        "title": "Performances Techniques Améliorées",
+        "description": "Optimisation technique, accélération du chargement, gains de performance à Marseille.",
+        "image": "https://images.pexels.com/photos/5706208/pexels-photo-5706208.jpeg",
+        "engagement": "13%",
+        "reach": "35K",
+        "roi": "390%"
+      }
+    ]
+  },
+  "TestimonialsSection": {
+    "title": "Témoignages Clients : Agences SEO à Marseille",
+    "description": "Ce que nos clients disent de leur expérience avec les agences SEO trouvées sur notre plateforme à Marseille.",
+    "testimonials": [
+      {
+        "text": "Plateforme parfaite pour trouver notre agence à Marseille. Simple et efficace !",
+        "author": "Sophie Martin",
+        "title": "CEO, Boutique Mode Marseille",
+        "rating": 5,
+        "avatar": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg"
+      },
+      {
+        "text": "Excellent outil pour comparer les agences SEO à Marseille. Nous avons fait le bon choix !",
+        "author": "Thomas Dubois",
+        "title": "Directeur Marketing, Tech Solutions Marseille",
+        "rating": 4.5,
+        "avatar": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
+      },
+      {
+        "text": "Agences de qualité à Marseille. Notre site a été livré dans les temps et a dépassé nos attentes.",
+        "author": "Marie Lambert",
+        "title": "Fondatrice, Green Garden Marseille",
+        "rating": 5,
+        "avatar": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg"
+      }
+    ]
+  },
+   "InfluenceMarketingSection": {
+        "title": "Développez votre notoriété à Marseille avec une agence d'influence",
+        "description": "Le marketing d'influence est un levier puissant pour toucher votre public cible à Marseille. Collaborez avec une agence spécialisée pour des résultats optimaux.",
+        "benefits": [
+          {
+            "icon": "TrendingUp",
+            "title": "Stratégie sur-mesure",
+            "description": "Nos experts analysent les tendances marseillaises et sélectionnent les influenceurs adaptés à votre marque."
+          },
+          {
+            "icon": "Target",
+            "title": "Ciblage précis",
+            "description": "Atteignez votre audience à Marseille grâce à des créateurs de contenu locaux et pertinents."
+          },
+          {
+            "icon": "BarChart",
+            "title": "Mesure des résultats",
+            "description": "Suivez l'engagement et la portée de vos campagnes grâce à des indicateurs clés."
+          },
+          {
+            "icon": "Users",
+            "title": "Réseau d'influenceurs",
+            "description": "Accédez à un large réseau d'influenceurs à Marseille et dans sa région."
+          },
+          {
+            "icon": "Shield",
+            "title": "Gestion de campagne",
+            "description": "Déléguez la gestion de vos campagnes à nos experts du marché marseillais."
+          },
+          {
+            "icon": "Globe",
+            "title": "Portée locale et internationale",
+            "description": "Amplifiez votre influence à Marseille et au-delà."
+          }
+        ]
+      }
+}

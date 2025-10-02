@@ -1,0 +1,41 @@
+export const lightTheme = {
+    colors: {
+      primary: '#232F3E',
+      secondary: '#FF9900',
+      background: '#FFFFFF',
+      text: '#232F3E',
+      border: '#E5E7EB',
+      orange: '#FF9900',
+      calculatorBg: '#F9FAFB',
+      resultBg: '#F3F4F6',
+      input: '#FFFFFF',
+      cardBg: '#FFFFFF',
+      cardBgHover: '#F9FAFB',
+      gradientFrom: '#232F3E',
+      gradientTo: '#161E2D',
+      success: '#16B364',
+      warning: '#F59E0B',
+      info: '#3B82F6',
+    },
+  };
+  
+  export const darkTheme = {
+    colors: {
+      primary: '#161B22',
+      secondary: '#FF9900',
+      background: '#0D1117',
+      text: '#C9D1D9',
+      border: '#30363D',
+      orange: '#FF9900',
+      calculatorBg: '#161B22',
+      resultBg: '#21262D',
+      input: '#0D1117',
+      cardBg: '#161B22',
+      cardBgHover: '#21262D',
+      gradientFrom: '#0D1117',
+      gradientTo: '#161B22',
+      success: '#059669',
+      warning: '#D97706',
+      info: '#2563EB',
+    },
+  };

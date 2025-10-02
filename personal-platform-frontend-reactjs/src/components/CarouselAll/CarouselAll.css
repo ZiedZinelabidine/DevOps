@@ -1,0 +1,13 @@
+button.react-multiple-carousel__arrow.react-multiple-carousel__arrow--right,
+button.react-multiple-carousel__arrow.react-multiple-carousel__arrow--left {
+  display: none !important;
+}
+
+.custom-container {
+  max-width: 800px;
+  margin: 30px auto;
+}
+
+.react-multi-carousel-dot-list {
+  display: none !important;
+}

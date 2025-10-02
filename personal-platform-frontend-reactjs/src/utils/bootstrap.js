@@ -1,0 +1,19 @@
+// Import specific components from their individual modules for better tree shaking
+export { default as Alert } from "react-bootstrap/esm/Alert";
+export { default as Badge } from "react-bootstrap/esm/Badge";
+export { default as Button } from "react-bootstrap/esm/Button";
+export { default as Col } from "react-bootstrap/esm/Col";
+export { default as Container } from "react-bootstrap/esm/Container";
+export { default as DropdownButton } from "react-bootstrap/esm/DropdownButton";
+export { default as Form } from "react-bootstrap/esm/Form";
+export { default as FormControl } from "react-bootstrap/esm/FormControl";
+export { default as Image } from "react-bootstrap/esm/Image";
+export { default as InputGroup } from "react-bootstrap/esm/InputGroup";
+export { default as Modal } from "react-bootstrap/esm/Modal";
+export { default as Nav } from "react-bootstrap/esm/Nav";
+export { default as Navbar } from "react-bootstrap/esm/Navbar";
+export { default as NavDropdown } from "react-bootstrap/esm/NavDropdown";
+export { default as Pagination } from "react-bootstrap/esm/Pagination";
+export { default as Row } from "react-bootstrap/esm/Row";
+export { default as Spinner } from "react-bootstrap/esm/Spinner";
+export { default as Tab } from "react-bootstrap/esm/Tab";

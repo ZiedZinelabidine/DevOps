@@ -1,0 +1,256 @@
+{
+    "AgencySearchPage": {
+        "title": "Découvrez les agences de marketing les plus performantes à Paris",
+        "subtitle": "Optimisez votre stratégie marketing grâce à nos experts en communication et marketing, basés à Paris et en Île-de-France.",
+        "footer": {
+            "title": "Sélectionnez l'agence de marketing parfaite pour votre projet",
+            "text": "Notre annuaire vous permet de choisir parmi les agences de marketing les plus compétentes à Paris, en fonction de vos besoins spécifiques."
+        },
+        "HelmetTitle": "Recherchez une agence de marketing de haut niveau à Paris",
+        "HelmetDescription": "Explorez les meilleures agences, freelances ou spécialistes en marketing à Paris sur la plateforme ItGalaxy. Cliquez ici pour lister les agences",
+        "HelmetURL": "https://itgalaxy.io/agence-marketing"
+    },
+    "BenefitsSection": {
+        "title": "Pourquoi opter pour notre plateforme ?",
+        "subtitle": "Découvrez les raisons qui font de notre plateforme le choix idéal pour confier votre stratégie marketing.",
+        "benefits": [
+            {
+                "icon": "Search",
+                "title": "Expertise locale",
+                "description": "Profitez de l’expérience des agences locales, à Paris et en Île-de-France."
+            },
+            {
+                "icon": "Shield",
+                "title": "Agences certifiées",
+                "description": "Nos partenaires sont rigoureusement sélectionnés pour leur sérieux et leur professionnalisme."
+            },
+            {
+                "icon": "Clock",
+                "title": "Efficacité temporelle",
+                "description": "Identifiez l’agence idéale rapidement grâce à notre plateforme intuitive et efficace."
+            },
+            {
+                "icon": "Users",
+                "title": "Contact direct",
+                "description": "Communiquez directement avec les agences pour discuter de votre projet."
+            },
+            {
+                "icon": "Award",
+                "title": "Succès assuré",
+                "description": "Nos partenaires vous aident à atteindre vos objectifs marketing avec succès."
+            },
+            {
+                "icon": "TrendingUp",
+                "title": "Innovation constante",
+                "description": "Bénéficiez des dernières tendances en marketing et communication."
+            }
+        ]
+    },
+    "ContactSection": {
+        "title": "Prêt à optimiser votre marketing ?",
+        "subtitle": "Contactez notre équipe pour une recommandation personnalisée et commencez rapidement votre projet."
+    },
+    "FAQSection": {
+        "title": "Questions courantes",
+        "subtitle": "Obtenez des réponses à toutes vos questions concernant le choix d’une agence de marketing à Paris.",
+        "faqs": [
+            {
+                "question": "Comment choisir la bonne agence de marketing à Paris ?",
+                "answer": "Évaluez leur expérience locale, leur portfolio, leurs références clients, et leurs compétences sectorielles. Utilisez notre plateforme pour comparer."
+            },
+            {
+                "question": "Quels sont les coûts typiques pour une campagne de marketing ?",
+                "answer": "Les prix varient selon la portée et la complexité du projet, allant généralement de 2000€ à 20 000€ selon la prestation."
+            },
+            {
+                "question": "Combien de temps pour élaborer une stratégie de marketing ?",
+                "answer": "Cela peut prendre entre 2 semaines et 1 mois pour une stratégie complète adaptée à vos besoins."
+            },
+            {
+                "question": "Comment mesurer l’efficacité d’une campagne de marketing ?",
+                "answer": "Suivez les indicateurs clés : notoriété, engagement, leads générés, retombées médiatiques et retour sur investissement."
+            },
+            {
+                "question": "Que faire si je ne suis pas satisfait du résultat ?",
+                "answer": "Discutez avec votre agence, ajustez la stratégie ou changez d’agence si nécessaire après avoir exprimé vos attentes."
+            },
+            {
+                "question": "Quels services proposent généralement les agences à Paris ?",
+                "answer": "Marketing digital, identité visuelle, événementiel, community management, etc."
+            },
+            {
+                "question": "Les agences locales offrent-elles des services sur mesure ?",
+                "answer": "Oui, elles adaptent leur stratégie à votre marché local et à vos objectifs spécifiques."
+            },
+            {
+                "question": "Comment se déroule un appel d’offres avec une agence ?",
+                "answer": "Vous définissez vos besoins, recevez des propositions, puis choisissez celle qui correspond le mieux à vos attentes."
+            },
+            {
+                "question": "Faut-il faire appel à une agence pour une campagne sur les réseaux sociaux ?",
+                "answer": "Souvent recommandé, surtout pour un bon ciblage, création de contenu et gestion de communauté efficace."
+            },
+            {
+                "question": "Quels sont les avantages du marketing digital par rapport au marketing traditionnel ?",
+                "answer": "Le marketing digital permet un ciblage plus précis, un suivi en temps réel et un meilleur retour sur investissement."
+            },
+            {
+                "question": "Comment choisir le bon type de campagne pour mon entreprise ?",
+                "answer": "Analysez vos objectifs, votre budget et votre public cible. Une agence peut vous aider à déterminer la meilleure approche."
+            },
+            {
+                "question": "Quels sont les indicateurs clés de performance (KPI) à suivre ?",
+                "answer": "Engagement, taux de conversion, trafic, leads générés et retour sur investissement sont des KPI essentiels."
+            },
+            {
+                "question": "Comment maximiser le retour sur investissement (ROI) de ma campagne ?",
+                "answer": "Ciblez précisément votre audience, utilisez des contenus pertinents et analysez régulièrement les performances pour ajuster la stratégie."
+            },
+            {
+                "question": "Quels sont les avantages de travailler avec une agence locale ?",
+                "answer": "Une agence locale comprend mieux le marché et les spécificités régionales, ce qui permet une stratégie plus adaptée."
+            },
+            {
+                "question": "Comment évaluer la crédibilité d’une agence de marketing ?",
+                "answer": "Vérifiez leurs références, leurs études de cas, les avis clients et leur expertise dans votre secteur."
+            },
+            {
+                "question": "Quels sont les risques d’une mauvaise stratégie marketing ?",
+                "answer": "Une mauvaise stratégie peut entraîner une perte de temps, d’argent et nuire à votre image de marque."
+            },
+            {
+                "question": "Comment intégrer le marketing d’influence dans ma stratégie ?",
+                "answer": "Identifiez des influenceurs pertinents, créez des partenariats authentiques et mesurez l’impact sur votre audience."
+            },
+            {
+                "question": "Quels sont les coûts cachés à prévoir dans une campagne marketing ?",
+                "answer": "Les coûts peuvent inclure les frais de création de contenu, les outils analytiques et les ajustements de stratégie."
+            },
+            {
+                "question": "Comment gérer une crise de communication avec une agence ?",
+                "answer": "Une agence expérimentée peut vous aider à communiquer de manière transparente et à restaurer la confiance."
+            },
+            {
+                "question": "Quels sont les avantages du marketing événementiel ?",
+                "answer": "Le marketing événementiel permet de créer des expériences mémorables et de renforcer les relations avec votre audience."
+            },
+            {
+                "question": "Comment mesurer l’impact d’une campagne de branding ?",
+                "answer": "Analysez la notoriété de la marque, l’engagement des clients et les retours sur les réseaux sociaux."
+            },
+            {
+                "question": "Quels sont les outils indispensables pour une campagne marketing réussie ?",
+                "answer": "Des outils d’analyse (Google Analytics), de gestion des réseaux sociaux (Hootsuite) et de création de contenu (Canva) sont essentiels."
+            },
+            {
+                "question": "Comment adapter ma stratégie marketing à l’international ?",
+                "answer": "Étudiez les spécificités culturelles, linguistiques et réglementaires de chaque marché cible."
+            },
+            {
+                "question": "Quels sont les avantages du marketing automation ?",
+                "answer": "Le marketing automation permet de gagner du temps, de personnaliser les campagnes et d’améliorer l’efficacité."
+            },
+            {
+                "question": "Comment choisir le bon moment pour lancer une campagne ?",
+                "answer": "Analysez les tendances saisonnières, les événements clés et le comportement de votre audience."
+            },
+            {
+                "question": "Quels sont les critères pour choisir un bon influenceur ?",
+                "answer": "Vérifiez son engagement, sa pertinence par rapport à votre marque et l’authenticité de son audience."
+            }
+        ]
+    },
+    "RecentProjectsSection": {
+        "title": "Nos réalisations en marketing à Paris",
+        "description": "Découvrez nos projets et résultats concrets en marketing avec nos partenaires locaux.",
+        "projects": [
+            {
+                "title": "Lancement de campagne digitale",
+                "description": "Création et gestion d’une campagne digitale pour une marque locale, générant un fort engagement.",
+                "image": "https://images.pexels.com/photos/3785147/pexels-photo-3785147.jpeg",
+                "engagement": "15%",
+                "reach": "10K",
+                "roi": "300%"
+            },
+            {
+                "title": "Refonte de site web",
+                "description": "Refonte d’un site web pour une entreprise à Paris, augmentant le trafic et les conversions.",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+                "engagement": "20%",
+                "reach": "8K",
+                "roi": "350%"
+            },
+            {
+                "title": "Campagne de publicité en ligne",
+                "description": "Gestion d’une campagne publicitaire en ligne pour un nouveau produit, obtenant une visibilité importante.",
+                "image": "https://images.pexels.com/photos/5709661/pexels-photo-5709661.jpeg",
+                "engagement": "18%",
+                "reach": "12K",
+                "roi": "400%"
+            }
+        ]
+    },
+    "TestimonialsSection": {
+        "title": "Ce que disent nos clients",
+        "description": "Découvrez les retours des clients qui ont trouvé leur agence de marketing idéale via notre plateforme.",
+        "testimonials": [
+            {
+                "text": "L’agence à Paris que j’ai trouvée ici a transformé notre stratégie marketing. Résultats incroyables.",
+                "author": "Claire Dupont",
+                "title": "Directrice, Hôtel Parisien",
+                "rating": 5,
+                "avatar": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg"
+            },
+            {
+                "text": "Notre campagne de marketing a été un succès grâce à l’agence recommandée ici. Très professionnel !",
+                "author": "Sophie Lambert",
+                "title": "Responsable Marketing, Boutique de Luxe",
+                "rating": 5,
+                "avatar": "https://images.pexels.com/photos/3763188/pexels-photo-3763188.jpeg"
+            },
+            {
+                "text": "Je recommande vivement cette plateforme pour trouver des agences fiables et compétentes à Paris.",
+                "author": "Jean Moreau",
+                "title": "CEO, Agence SEO",
+                "rating": 4.5,
+                "avatar": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg"
+            }
+        ]
+    },
+    "InfluenceMarketingSection": {
+        "title": "Pourquoi collaborer avec une agence influence à Paris ?",
+        "description": "Le marketing d'influence local est très efficace pour toucher une audience ciblée et renforcer votre image en Île-de-France.",
+        "benefits": [
+            {
+                "icon": "TrendingUp",
+                "title": "Stratégie locale adaptée",
+                "description": "Les agences à Paris connaissent parfaitement le marché régional et vous proposent une stratégie ciblée."
+            },
+            {
+                "icon": "Target",
+                "title": "Ciblage précis",
+                "description": "Collaborer avec des influenceurs locaux permet de toucher une audience qualifiée et engagée dans la région Île-de-France."
+            },
+            {
+                "icon": "BarChart",
+                "title": "Résultats mesurables",
+                "description": "Suivez l’impact de vos campagnes grâce à des indicateurs précis et une analyse détaillée des performances."
+            },
+            {
+                "icon": "Users",
+                "title": "Réseau d'influenceurs locaux",
+                "description": "Accédez à un réseau d’influenceurs régionaux, pertinents et authentiques pour maximiser la portée."
+            },
+            {
+                "icon": "Shield",
+                "title": "Gestion professionnelle",
+                "description": "Profitez d'une gestion complète des campagnes, de la conception à la réalisation, avec un suivi rigoureux."
+            },
+            {
+                "icon": "Globe",
+                "title": "Portée régionale et nationale",
+                "description": "Extension de votre influence en Île-de-France et au-delà, selon votre stratégie."
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+export const InputTypes = {
+  TEXT: "text",
+  TEXTAREA: "textarea",
+  NUMBER: "number",
+  RADIO: "radio",
+  RADIO_2: "radio2",
+  RADIO_3: "radio3",
+  MULTI_RADIO: "multi-radio",
+  PASSWORD: "password",
+  CHECKBOX: "checkbox",
+  FILE: "file",
+  MULTIPLE_FILE: "file_multiple",
+  PHONE_INPUT: "phone-input",
+  DATE: "date",
+  AUTOCOMPLETE: "autocomplete",
+  SELECT: "select",
+  MULTISELECT: "multiselect",
+};

@@ -1,0 +1,46 @@
+{
+  "compilerOptions": {
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "types": [
+      "@remix-run/cloudflare",
+      "vite/client",
+      "@cloudflare/workers-types/2023-07-01",
+      "@types/dom-speech-recognition"
+    ],
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "jsx": "react-jsx",
+    "module": "ESNext",
+    "moduleResolution": "Node",  // Changed to "Node" which is more common
+    "resolveJsonModule": true,
+    "target": "ESNext",
+    "strict": true,
+    "allowJs": true,
+    "skipLibCheck": true,
+    "verbatimModuleSyntax": true,
+    "forceConsistentCasingInFileNames": true,
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["./app/*"]
+    },
+
+    // Prevent TypeScript from emitting JS files; Vite will handle it
+    "noEmit": true
+  },
+  "include": [
+    "src/**/*",                 // Include the source files; adjust based on your structure
+    "app/**/*",                 // Include your app folder if needed
+    "**/*.ts",
+    "**/*.tsx",
+    "**/.server/**/*.ts",
+    "**/.server/**/*.tsx",
+    "**/.client/**/*.ts",
+    "**/.client/**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",                     // Exclude the output directory
+    "**/*.test.ts",             // Optionally exclude test files
+    "**/*.spec.ts"              // Optionally exclude spec files
+  ]
+}

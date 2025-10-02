@@ -1,0 +1,35 @@
+version: '3.8'
+services:
+  db:
+    image: bitnami/postgresql:15
+    restart: always
+    environment:
+      - POSTGRES_DB=itgalaxy
+      - POSTGRES_PASSWORD=Werollingupdate0102*
+      - POSTGRES_USER=itgalaxyUSER
+    ports:
+      - '5432:5432'
+    volumes: 
+      - ~/postgresql/pgdata:/bitnami/postgresql
+
+  api-itgalaxy:
+    container_name: api-itgalaxy
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    depends_on:
+      - db
+    #  - api-mongodb
+    ports:
+      - '7070:7070'  # Change to map the correct internal port
+    volumes:
+      - .:/app  # Bind mount your application code to the /app directory in the container
+
+#  api-mongodb:
+#    image: 670270766287.dkr.ecr.eu-west-1.amazonaws.com/api_chat_mongodb:latest
+#    ports:
+#      - '5050:5050' 
+
+volumes:
+  db:
+    driver: local

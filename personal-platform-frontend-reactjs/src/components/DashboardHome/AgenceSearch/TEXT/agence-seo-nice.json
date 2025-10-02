@@ -1,0 +1,216 @@
+{
+    "AgencySearchPage": {
+        "title": "Trouvez les Meilleures Agences SEO à Nice | Experts Locaux",
+        "subtitle": "Boostez votre présence en ligne à Nice avec des experts SEO locaux. Spécialistes du référencement naturel niçois.",
+        "footer": {
+            "title": "Votre Agence SEO Idéale à Nice est Ici",
+            "text": "Notre annuaire vous aide à trouver rapidement l'agence SEO parfaite pour vos besoins spécifiques à Nice."
+        },
+        "HelmetTitle": "Agence SEO Nice : Référencement Naturel Performant | ItGalaxy",
+        "HelmetDescription": "Découvrez les meilleures agences SEO, freelances et experts en référencement à Nice sur ItGalaxy. Augmentez votre visibilité et attirez plus de clients !",
+        "HelmetURL": "https://itgalaxy.io/agence-seo-nice"
+    },
+    "BenefitsSection": {
+        "title": "Pourquoi Choisir Notre Plateforme pour Votre SEO à Nice ?",
+        "subtitle": "Le moyen le plus simple et efficace de trouver et collaborer avec des experts SEO à Nice.",
+        "benefits": [
+            {
+                "icon": "Search",
+                "title": "Experts SEO Niçois",
+                "description": "Améliorez votre positionnement sur Google avec nos spécialistes locaux du référencement à Nice."
+            },
+            {
+                "icon": "Shield",
+                "title": "Agences Vérifiées et Recommandées",
+                "description": "Nous sélectionnons rigoureusement les meilleures agences SEO à Nice pour leur expertise et leur sérieux."
+            },
+            {
+                "icon": "Clock",
+                "title": "Gagnez du Temps Précieux",
+                "description": "Trouvez rapidement l'agence idéale grâce à notre plateforme intuitive et facile à utiliser à Nice."
+            },
+            {
+                "icon": "Users",
+                "title": "Mise en Relation Facile et Rapide",
+                "description": "Contactez directement des experts SEO basés à Nice pour discuter de votre projet et obtenir un devis personnalisé."
+            },
+            {
+                "icon": "Award",
+                "title": "Résultats Concrets et Durables",
+                "description": "Nos agences vous garantissent une amélioration significative de votre visibilité et de votre chiffre d'affaires à Nice."
+            },
+            {
+                "icon": "TrendingUp",
+                "title": "SEO Innovant Adapté à Nice",
+                "description": "Restez à la pointe du référencement local à Nice avec les stratégies les plus récentes et performantes."
+            }
+        ]
+    },
+    "ContactSection": {
+        "title": "Prêt(e) à Développer Votre SEO à Nice ?",
+        "subtitle": "Contactez notre équipe pour des conseils personnalisés et commencez à optimiser votre présence en ligne dès aujourd'hui."
+    },
+    "FAQSection": {
+        "title": "FAQ : Tout ce que Vous Devez Savoir sur le SEO à Nice",
+        "subtitle": "Réponses aux questions fréquentes sur le choix d'une agence SEO et l'optimisation de votre site web à Nice.",
+        "faqs": [
+            {
+                "question": "Comment choisir la meilleure agence SEO à Nice ?",
+                "answer": "Vérifiez leur expérience locale, leurs références solides, leurs résultats prouvés à Nice. Notre plateforme vous aide à comparer et choisir l'agence idéale."
+            },
+            {
+                "question": "Quel est le coût moyen d'une campagne SEO à Nice ?",
+                "answer": "Les coûts varient selon la taille du projet et la concurrence. Un forfait annuel peut démarrer à partir de 3000€ pour une PME à Nice."
+            },
+            {
+                "question": "Combien de temps faut-il pour voir des résultats SEO à Nice ?",
+                "answer": "En général, il faut compter entre 3 et 6 mois pour observer des améliorations significatives dans votre positionnement local à Nice."
+            },
+            {
+                "question": "Comment se déroule un audit SEO à Nice ?",
+                "answer": "L'agence effectue une analyse complète de votre site et de votre marché local à Nice, puis vous propose une stratégie sur-mesure."
+            },
+            {
+                "question": "Que faire si je ne suis pas satisfait(e) des résultats à Nice ?",
+                "answer": "Discutez avec votre agence, ajustez la stratégie si nécessaire, ou changez d'agence si les résultats ne sont pas au rendez-vous après plusieurs mois."
+            },
+            {
+                "question": "Quelles sont les techniques SEO les plus efficaces à Nice ?",
+                "answer": "Optimisation locale, netlinking régional, SEO technique, recherche de mots-clés pertinents pour Nice et création de contenu de qualité ciblé sur la région."
+            },
+            {
+                "question": "Comment suivre les performances de mon SEO à Nice ?",
+                "answer": "Votre agence vous fournira des rapports réguliers avec des indicateurs clés : positionnement, trafic organique, conversions locales, etc."
+            },
+            {
+                "question": "Comment bien choisir mon agence SEO à Nice ?",
+                "answer": "Vérifiez leur expérience locale, leurs références, leurs résultats concrets et leur connaissance du marché niçois pour garantir un partenariat efficace et rentable."
+            },
+            {
+                "question": "Quels indicateurs suivre pour mesurer le succès à Nice ?",
+                "answer": "Le positionnement dans les résultats locaux à Nice, le trafic organique ciblé sur Nice, le taux de conversion local et le retour sur investissement spécifique à la région."
+            },
+            {
+                "question": "Le SEO peut-il booster mon chiffre d'affaires à Nice ?",
+                "answer": "Oui, en améliorant la visibilité locale de votre site, en attirant des clients qualifiés proches de Nice et en augmentant le taux de conversion, le SEO contribue directement à la croissance de votre activité dans la région."
+            }
+        ]
+    },
+    "RecentProjectsSection": {
+        "title": "Nos Réussites SEO à Nice | Études de Cas",
+        "description": "Découvrez nos projets concrets et les résultats exceptionnels obtenus avec nos partenaires locaux à Nice.",
+        "projects": [
+            {
+                "title": "Augmentation du Trafic de 150% pour une Boutique en Ligne à Nice",
+                "description": "Optimisation complète d'une boutique en ligne niçoise, résultant en une augmentation spectaculaire de 150% du trafic organique.",
+                "image": "https://images.pexels.com/photos/3785147/pexels-photo-3785147.jpeg",
+                "engagement": "12%",
+                "reach": "50K",
+                "roi": "400%"
+            },
+            {
+                "title": "Top 3 Google Maps pour un Restaurant à Nice",
+                "description": "Amélioration du référencement local, permettant à un restaurant d'apparaître dans le top 3 des résultats Google Maps à Nice.",
+                "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+                "engagement": "10%",
+                "reach": "20K",
+                "roi": "350%"
+            },
+            {
+                "title": "Refonte SEO : Trafic Multiplié par 2 en 6 Mois à Nice",
+                "description": "Refonte technique et stratégique, conduisant à une augmentation de 200% du trafic en seulement 6 mois pour une entreprise à Nice.",
+                "image": "https://images.pexels.com/photos/5709661/pexels-photo-5709661.jpeg",
+                "engagement": "15%",
+                "reach": "30K",
+                "roi": "420%"
+            },
+            {
+                "title": "Optimisation Mobile : Hausse des Conversions à Nice",
+                "description": "Amélioration du référencement mobile, entraînant une augmentation significative des conversions dans la région niçoise.",
+                "image": "https://images.pexels.com/photos/4498606/pexels-photo-4498606.jpeg",
+                "engagement": "18%",
+                "reach": "40K",
+                "roi": "380%"
+            },
+            {
+                "title": "Stratégie de Contenu : Positionnement en Première Page à Nice",
+                "description": "Création et optimisation de contenu, permettant à une startup d'atteindre la première page des résultats de recherche à Nice.",
+                "image": "https://images.pexels.com/photos/1092671/pexels-photo-1092671.jpeg",
+                "engagement": "20%",
+                "reach": "25K",
+                "roi": "410%"
+            },
+            {
+                "title": "Amélioration des Performances Techniques à Nice",
+                "description": "Optimisation technique du site, accélération du chargement, générant des gains de performance significatifs pour une entreprise à Nice.",
+                "image": "https://images.pexels.com/photos/5706208/pexels-photo-5706208.jpeg",
+                "engagement": "13%",
+                "reach": "35K",
+                "roi": "390%"
+            }
+        ]
+    },
+    "TestimonialsSection": {
+        "title": "Ce que Nos Clients Disent de Nos Agences SEO à Nice",
+        "description": "Découvrez les témoignages de clients satisfaits ayant trouvé leur agence SEO idéale à Nice grâce à notre plateforme.",
+        "testimonials": [
+            {
+                "text": "Grâce à cette plateforme, nous avons trouvé l'agence parfaite pour notre projet e-commerce à Nice. Le processus était simple, rapide et efficace.",
+                "author": "Sophie Martin",
+                "title": "CEO, Boutique Mode Nice",
+                "rating": 5,
+                "avatar": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg"
+            },
+            {
+                "text": "Un outil formidable pour comparer les agences SEO locales. Les filtres sont pertinents et nous ont permis de faire le bon choix rapidement à Nice.",
+                "author": "Thomas Dubois",
+                "title": "Directeur Marketing, Tech Solutions Nice",
+                "rating": 4.5,
+                "avatar": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
+            },
+            {
+                "text": "La qualité des agences référencées à Nice est impressionnante. Notre site a été livré dans les temps et a dépassé nos attentes. Je recommande vivement !",
+                "author": "Marie Lambert",
+                "title": "Fondatrice, Green Garden Nice",
+                "rating": 5,
+                "avatar": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg"
+            }
+        ]
+    },
+    "InfluenceMarketingSection": {
+        "title": "Développez Votre Notoriété à Nice avec le Marketing d'Influence",
+        "description": "Le marketing d'influence est un levier puissant pour toucher votre public cible à Nice. Découvrez les avantages de collaborer avec une agence spécialisée.",
+        "benefits": [
+            {
+                "icon": "TrendingUp",
+                "title": "Stratégie Personnalisée pour Nice",
+                "description": "Nos experts analysent les tendances locales à Nice et sélectionnent les influenceurs les plus pertinents pour votre marque et votre audience cible."
+            },
+            {
+                "icon": "Target",
+                "title": "Ciblage Précis de Votre Audience Niçoise",
+                "description": "Atteignez votre audience locale grâce à des créateurs de contenu influents et engagés basés à Nice et dans sa région."
+            },
+            {
+                "icon": "BarChart",
+                "title": "Mesure des Résultats Concrets",
+                "description": "Suivez et optimisez vos campagnes grâce à des indicateurs clés de performance (KPIs) adaptés au marché niçois."
+            },
+            {
+                "icon": "Users",
+                "title": "Accès à un Vaste Réseau d'Influenceurs Niçois",
+                "description": "Accédez à un réseau étendu d'influenceurs locaux et régionaux pour maximiser l'impact de vos campagnes de marketing d'influence à Nice."
+            },
+            {
+                "icon": "Shield",
+                "title": "Gestion Professionnelle de Vos Campagnes",
+                "description": "Confiez la gestion de vos campagnes à nos experts, qui connaissent parfaitement le marché de Nice et ses spécificités."
+            },
+            {
+                "icon": "Globe",
+                "title": "Portée Locale et Internationale",
+                "description": "Développez votre influence à Nice et au-delà grâce à des campagnes ciblées et performantes, adaptées à vos objectifs."
+            }
+        ]
+    }
+}

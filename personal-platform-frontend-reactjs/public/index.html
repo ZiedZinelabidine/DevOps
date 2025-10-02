@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="robots" content="noindex, nofollow">
+    <meta http-equiv="Cross-Origin-Opener-Policy" content="same-origin-allow-popups">
+    <meta name="netlinkdeal-verification" content="96bdddb7-58ed-44ed-a366-75c16af74caa" />
+    <!-- Resource Hints -->
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link rel="preconnect" href="//fonts.googleapis.com" crossorigin>
+    <link rel="preconnect" href="//fonts.gstatic.com" crossorigin>
+    
+    <!-- Preload Critical Resources -->
+    <link rel="preload" href="/static/js/runtime.js" as="script">
+    <link rel="preload" href="/static/js/vendor.react.js" as="script">
+    <link rel="preload" href="/static/js/main.js" as="script">
+    <link rel="preload" href="/static/css/main.css" as="style">
+    
+    <!-- Preload Critical Fonts -->
+    <link rel="preload" href="https://fonts.googleapis.com/icon?family=Material+Icons" as="style" onload="this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"></noscript>
+    
+    <!-- Preload critical chunks -->
+    <link rel="preload" href="%PUBLIC_URL%/static/js/main.chunk.js" as="script" />
+    <link rel="preload" href="%PUBLIC_URL%/static/js/runtime-main.js" as="script" />
+    <link rel="preload" href="%PUBLIC_URL%/static/js/vendors.chunk.js" as="script" />
+    
+    <!-- Preload critical fonts if any -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    
+    <!-- Preload critical CSS -->
+    <link rel="preload" href="%PUBLIC_URL%/static/css/main.chunk.css" as="style" />
+    
+    <!-- Defer Non-Critical Third-Party Scripts -->
+    <script defer src="https://www.googletagmanager.com/gtag/js?id=YOUR_GA_ID"></script>
+    <script>
+      // Add support for preloading dynamic imports
+      const preloadedChunks = new Set();
+      
+      function preloadChunk(chunkPath) {
+        if (!preloadedChunks.has(chunkPath)) {
+          const link = document.createElement('link');
+          link.rel = 'preload';
+          link.as = 'script';
+          link.href = chunkPath;
+          document.head.appendChild(link);
+          preloadedChunks.add(chunkPath);
+        }
+      }
+      
+      window.addEventListener('load', function() {
+        // Preload chat-related chunks for faster chat loading
+        preloadChunk('/static/js/chat.chunk.js');
+        
+        // Load non-critical third-party scripts
+        const loadScript = (src) => {
+          const script = document.createElement('script');
+          script.src = src;
+          script.async = true;
+          document.body.appendChild(script);
+        };
+        
+        // Add your non-critical scripts here
+        setTimeout(() => {
+          // Example: Analytics, chat widgets, etc.
+          // loadScript('https://example.com/analytics.js');
+        }, 3000);
+      });
+    </script>
+    
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

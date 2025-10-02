@@ -1,0 +1,252 @@
+{
+  "AgencySearchPage": {
+    "title": "Trouvez les Meilleures Agences SEO en France | Augmentez Votre Visibilité",
+    "subtitle": "Boostez votre présence en ligne grâce à nos experts SEO, spécialistes du référencement naturel dans toute la France.",
+    "footer": {
+      "title": "Votre Agence SEO Idéale est Ici",
+      "text": "Notre annuaire vous aide à sélectionner les meilleures agences SEO en France, adaptées à vos besoins et à votre secteur d'activité."
+    },
+    "HelmetTitle": "Agence SEO Performante en France | Trouvez les Meilleurs Experts",
+    "HelmetDescription": "Découvrez les meilleures agences SEO, freelances et spécialistes du référencement naturel en France sur ItGalaxy. Développez votre activité et attirez plus de clients !",
+    "HelmetURL": "https://itgalaxy.io/agence-seo"
+  },
+  "BenefitsSection": {
+    "title": "Pourquoi Choisir Notre Plateforme pour Votre SEO ?",
+    "subtitle": "La solution simple et efficace pour trouver et collaborer avec les meilleurs experts en référencement naturel.",
+    "benefits": [
+      {
+        "icon": "Search",
+        "title": "Experts SEO Certifiés",
+        "description": "Profitez des compétences d'agences et de consultants SEO expérimentés et qualifiés."
+      },
+      {
+        "icon": "Shield",
+        "title": "Agences Vérifiées et Recommandées",
+        "description": "Nous sélectionnons rigoureusement les meilleures agences SEO pour leur sérieux, leur expertise et leurs résultats concrets."
+      },
+      {
+        "icon": "Clock",
+        "title": "Gagnez du Temps et de l'Argent",
+        "description": "Trouvez rapidement l'agence idéale grâce à notre plateforme intuitive et facile à utiliser."
+      },
+      {
+        "icon": "Users",
+        "title": "Mise en Relation Directe et Personnalisée",
+        "description": "Contactez directement les agences pour discuter de votre projet, obtenir des devis et démarrer votre collaboration."
+      },
+      {
+        "icon": "Award",
+        "title": "Résultats Durables et Mesurables",
+        "description": "Nos partenaires vous aident à atteindre vos objectifs de référencement, avec des stratégies éprouvées et un suivi personnalisé."
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Tendances et Innovations SEO",
+        "description": "Restez à la pointe du référencement naturel avec les dernières techniques et stratégies pour optimiser votre visibilité en ligne."
+      }
+    ]
+  },
+  "ContactSection": {
+    "title": "Prêt(e) à Développer Votre SEO ?",
+    "subtitle": "Contactez notre équipe pour obtenir des recommandations personnalisées et lancez votre projet d'optimisation dès aujourd'hui !"
+  },
+  "FAQSection": {
+    "title": "FAQ : Tout ce que Vous Devez Savoir sur le SEO en France",
+    "subtitle": "Réponses aux questions fréquentes sur le choix d'une agence SEO, l'optimisation de votre site web et les stratégies de référencement naturel.",
+    "faqs": [
+      {
+        "question": "Comment choisir la meilleure agence SEO pour mon entreprise ?",
+        "answer": "Vérifiez leur expérience, leurs références, leurs études de cas et leurs résultats concrets. Notre plateforme vous aide à comparer et choisir l'agence idéale pour vos besoins."
+      },
+      {
+        "question": "Quels sont les tarifs moyens pour une campagne de référencement naturel ?",
+        "answer": "Les coûts varient selon la taille du projet, la concurrence et les objectifs. Un forfait annuel peut démarrer à partir de 3000€ pour une petite entreprise."
+      },
+      {
+        "question": "Combien de temps faut-il pour voir des résultats avec le SEO ?",
+        "answer": "En général, il faut compter entre 3 et 6 mois pour observer des améliorations significatives dans le positionnement de votre site web."
+      },
+      {
+        "question": "Comment se déroule un audit SEO ?",
+        "answer": "L'agence réalise une analyse complète de votre site web, de votre marché et de vos concurrents, puis vous propose une stratégie personnalisée pour améliorer votre référencement."
+      },
+      {
+        "question": "Que faire si je ne suis pas satisfait(e) des résultats obtenus ?",
+        "answer": "Discutez ouvertement avec votre agence, ajustez la stratégie si nécessaire, ou envisagez de changer d'agence si les résultats ne sont pas à la hauteur de vos attentes."
+      },
+      {
+        "question": "Quelles sont les techniques SEO les plus utilisées par les agences ?",
+        "answer": "Optimisation on-page, netlinking (création de liens), SEO technique, recherche de mots-clés pertinents et création de contenu de qualité."
+      },
+      {
+        "question": "Comment suivre les performances de mon référencement naturel ?",
+        "answer": "Votre agence vous fournira des rapports réguliers avec des indicateurs clés : positionnement, trafic organique, taux de conversion, et retour sur investissement (ROI)."
+      },
+      {
+        "question": "Le référencement naturel est-il un investissement durable ?",
+        "answer": "Oui, le SEO offre des résultats durables et une visibilité accrue sur le long terme, contrairement aux stratégies publicitaires payantes."
+      },
+      {
+        "question": "Quel budget prévoir pour une campagne SEO efficace ?",
+        "answer": "En général, prévoyez entre 3000€ et 10 000€ par mois selon la taille de votre entreprise, la concurrence et vos objectifs de croissance."
+      },
+      {
+        "question": "Faut-il privilégier le SEO local, national ou international ?",
+        "answer": "Cela dépend de votre public cible et de vos objectifs : le SEO local vise à attirer des clients à proximité, tandis que le SEO national ou international vise une audience plus large."
+      },
+      {
+        "question": "Combien de temps dure une campagne SEO efficace ?",
+        "answer": "Une campagne SEO sérieuse dure généralement entre 6 et 12 mois pour obtenir des résultats durables et un retour sur investissement optimal."
+      },
+      {
+        "question": "Les agences SEO peuvent-elles garantir la première position sur Google ?",
+        "answer": "Aucune agence ne peut garantir une position spécifique, mais une stratégie solide vous assure une visibilité forte et durable sur les moteurs de recherche."
+      },
+      {
+        "question": "Quelles sont les erreurs à éviter en matière de SEO ?",
+        "answer": "Utiliser des techniques black hat (interdites), négliger la qualité du contenu et ignorer les recommandations techniques des moteurs de recherche."
+      },
+      {
+        "question": "Comment optimiser mon site web pour le SEO ?",
+        "answer": "Travaillez le contenu, la structure du site, la vitesse de chargement et obtenez des liens de qualité provenant de sites web reconnus."
+      },
+      {
+        "question": "Quels sont les avantages d'externaliser son SEO ?",
+        "answer": "Expertise pointue, gain de temps, accès à des outils performants, résultats plus rapides et suivi personnalisé de votre projet."
+      },
+      {
+        "question": "Quelle est la différence entre SEO et SEA (publicité payante) ?",
+        "answer": "Le SEO est un référencement naturel et durable, tandis que le SEA est une publicité payante qui génère des résultats immédiats mais temporaires."
+      },
+      {
+        "question": "Comment choisir la meilleure agence SEO pour mon entreprise ?",
+        "answer": "Vérifiez leur expérience, leurs références, leurs études de cas et leur connaissance de votre secteur d'activité."
+      },
+      {
+        "question": "Quels indicateurs suivre pour mesurer le succès de mon SEO ?",
+        "answer": "Le positionnement des mots-clés, le trafic organique, le taux de conversion, le temps passé sur le site et le retour sur investissement (ROI)."
+      },
+      {
+        "question": "Le SEO peut-il vraiment booster mon chiffre d'affaires ?",
+        "answer": "Oui, en améliorant la visibilité de votre site web, en attirant un trafic qualifié et en augmentant le taux de conversion, le SEO contribue directement à la croissance de vos ventes et de votre chiffre d'affaires."
+      }
+    ]
+  },
+  "RecentProjectsSection": {
+    "title": "Nos Réussites SEO | Études de Cas",
+    "description": "Découvrez nos projets concrets et les résultats exceptionnels obtenus grâce à nos stratégies de référencement naturel.",
+    "projects": [
+      {
+        "title": "Augmentation du Trafic de 150% pour une Boutique en Ligne",
+        "description": "Optimisation complète du site d'une boutique en ligne, avec une croissance spectaculaire de 150% du trafic organique grâce à une stratégie SEO sur mesure.",
+        "image": "https://images.pexels.com/photos/3785147/pexels-photo-3785147.jpeg",
+        "engagement": "12%",
+        "reach": "50K",
+        "roi": "400%"
+      },
+      {
+        "title": "Référencement Local : Top 3 Google Maps pour un Restaurant",
+        "description": "Amélioration significative du positionnement dans Google Maps, permettant à un restaurant d'apparaître dans le top 3 pour les recherches locales.",
+        "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+        "engagement": "10%",
+        "reach": "20K",
+        "roi": "350%"
+      },
+      {
+        "title": "Refonte SEO : Trafic Multiplié par 2 en 6 Mois",
+        "description": "Refonte technique et stratégique complète, entraînant une hausse de 200% du trafic en seulement 6 mois pour une entreprise.",
+        "image": "https://images.pexels.com/photos/5709661/pexels-photo-5709661.jpeg",
+        "engagement": "15%",
+        "reach": "30K",
+        "roi": "420%"
+      },
+      {
+        "title": "Optimisation Mobile : Augmentation des Conversions pour un Site E-Commerce",
+        "description": "Amélioration du référencement mobile, conduisant à une augmentation significative des conversions et des ventes pour un site e-commerce.",
+        "image": "https://images.pexels.com/photos/4498606/pexels-photo-4498606.jpeg",
+        "engagement": "18%",
+        "reach": "40K",
+        "roi": "380%"
+      },
+      {
+        "title": "Stratégie de Contenu : Positionnement en Première Page",
+        "description": "Création et optimisation de contenus pertinents et ciblés, permettant à une entreprise d'atteindre la première page des résultats de recherche.",
+        "image": "https://images.pexels.com/photos/1092671/pexels-photo-1092671.jpeg",
+        "engagement": "20%",
+        "reach": "25K",
+        "roi": "410%"
+      },
+      {
+        "title": "Amélioration des Performances Techniques",
+        "description": "Optimisations techniques complètes pour accélérer le chargement des pages et renforcer la performance globale d'un site web.",
+        "image": "https://images.pexels.com/photos/5706208/pexels-photo-5706208.jpeg",
+        "engagement": "13%",
+        "reach": "35K",
+        "roi": "390%"
+      }
+    ]
+  },
+  "TestimonialsSection": {
+    "title": "Ce que Disent Nos Clients | Témoignages",
+    "description": "Découvrez les témoignages de clients satisfaits qui ont trouvé leur agence SEO idéale grâce à notre plateforme et ont constaté une amélioration significative de leur visibilité en ligne.",
+    "testimonials": [
+      {
+        "text": "Grâce à cette plateforme, nous avons trouvé l'agence parfaite pour notre projet e-commerce. Le processus était simple, rapide et efficace, et les résultats ont dépassé nos attentes !",
+        "author": "Sophie Martin",
+        "title": "CEO, Fashion Store",
+        "rating": 5,
+        "avatar": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg"
+      },
+      {
+        "text": "Un outil formidable pour comparer les agences SEO. Les filtres sont pertinents, les informations sont claires, et nous avons pu faire le bon choix rapidement pour notre entreprise.",
+        "author": "Thomas Dubois",
+        "title": "Directeur Marketing, Tech Solutions",
+        "rating": 4.5,
+        "avatar": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
+      },
+      {
+        "text": "Les agences référencées sur cette plateforme sont vraiment de qualité. Notre site web a été optimisé rapidement, et les résultats sont au rendez-vous : augmentation du trafic, des leads et des ventes ! Je recommande vivement !",
+        "author": "Marie Lambert",
+        "title": "Fondatrice, Green Garden",
+        "rating": 5,
+        "avatar": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg"
+      }
+    ]
+  },
+  "InfluenceMarketingSection": {
+    "title": "Développez Votre Notoriété avec le Marketing d'Influence",
+    "description": "Le marketing d'influence est un levier puissant pour augmenter votre visibilité, renforcer votre image de marque et toucher votre public cible sur les réseaux sociaux.",
+    "benefits": [
+      {
+        "icon": "TrendingUp",
+        "title": "Stratégie Sur Mesure",
+        "description": "Nos agences analysent les tendances, sélectionnent les influenceurs pertinents et créent des campagnes adaptées à votre marque et à vos objectifs."
+      },
+      {
+        "icon": "Target",
+        "title": "Ciblage Précis",
+        "description": "Atteignez votre audience idéale grâce à des créateurs de contenu influents et engagés sur les réseaux sociaux."
+      },
+      {
+        "icon": "BarChart",
+        "title": "Résultats Mesurables",
+        "description": "Suivez et analysez les performances de vos campagnes grâce à des indicateurs clés de performance (KPIs) précis."
+      },
+      {
+        "icon": "Users",
+        "title": "Accès à un Réseau d'Influenceurs Qualifiés",
+        "description": "Accédez à un réseau étendu d'influenceurs qualifiés et authentiques pour maximiser l'impact de vos campagnes."
+      },
+      {
+        "icon": "Shield",
+        "title": "Gestion Professionnelle",
+        "description": "Confiez la gestion de vos campagnes à nos experts et profitez d'un suivi rigoureux et de résultats optimisés."
+      },
+      {
+        "icon": "Globe",
+        "title": "Portée Nationale et Internationale",
+        "description": "Développez votre influence au-delà des frontières grâce à des campagnes adaptées aux marchés internationaux."
+      }
+    ]
+  }
+}

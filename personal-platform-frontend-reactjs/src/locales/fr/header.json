@@ -1,0 +1,12 @@
+{
+  "home": "Accueil",
+  "dashboard": "Tableau de bord",
+  "profile": "Profil",
+  "settings": "Paramètres",
+  "logout": "Déconnexion",
+  "login": "Connexion",
+  "register": "S'inscrire",
+  "about": "À propos",
+  "about_us": "À propos de nous",
+  "sign_up": "S'inscrire"
+}
